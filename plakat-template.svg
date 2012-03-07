@@ -1823,7 +1823,7 @@
     </g>
     <g
        id="g10262"
-       transform="translate(15.582174,-34.556777)">
+       transform="matrix(1.126275,0,0,1,-42.539434,-34.346248)">
       <text
          sodipodi:linespacing="125%"
          id="text10258"
@@ -1835,7 +1835,7 @@
            y="721.67065"
            x="524.771"
            id="tspan10260"
-           sodipodi:role="line">http://blug.linux.no/</tspan></text>
+           sodipodi:role="line">blug.linux.no</tspan></text>
     </g>
     <g
        id="g4620"
