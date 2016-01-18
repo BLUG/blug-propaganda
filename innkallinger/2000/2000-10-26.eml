@@ -1,0 +1,129 @@
+Return-Path: <peter@bryggen.bgnett.no>
+Received: from bryggen.bgnett.no (peter@bryggen.bgnett.no [194.54.96.130])
+	by delilah.datadok.no (8.9.3/8.8.7) with ESMTP id MAA20466
+	for <peter@datadok.no>; Tue, 17 Oct 2000 12:52:54 +0200
+Received: (from peter@localhost)
+	by bryggen.bgnett.no (8.8.8/8.8.5/brage2.1) id KAA08038
+	for peter@datadok.no; Tue, 17 Oct 2000 10:55:50 GMT
+Received: from vegard.engen.priv.no ([193.69.204.235])
+	by bryggen.bgnett.no (8.8.8/8.8.5/brage2.1) with ESMTP id KAA08025;
+	Tue, 17 Oct 2000 10:55:49 GMT
+Received: by vegard.engen.priv.no (Postfix)
+	id 8058830A7FA; Tue, 17 Oct 2000 12:55:48 +0200 (CEST)
+Delivered-To: blug-outgoing@engen.priv.no
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 78E0F30A7F9; Tue, 17 Oct 2000 12:55:48 +0200 (CEST)
+Delivered-To: blug@engen.priv.no
+Received: from post.bgnett.no (post.bgnett.no [194.54.96.133])
+	by vegard.engen.priv.no (Postfix) with ESMTP
+	id 326FA30A7F1; Tue, 17 Oct 2000 12:55:47 +0200 (CEST)
+Received: from delilah.datadok.no (gw.datadok.no [194.54.98.152])
+	by post.bgnett.no (8.8.8/8.8.8) with ESMTP id MAA05789;
+	Tue, 17 Oct 2000 12:55:29 +0200 (CEST)
+	(envelope-from peter@datadok.no)
+Received: from SIEMENS02.datadok.no (zaphod.datadok.no [194.54.103.67])
+	by delilah.datadok.no (8.9.3/8.8.7) with ESMTP id MAA20459;
+	Tue, 17 Oct 2000 12:52:24 +0200
+Followup-To: no.it.os.unix.linux.diverse
+Newsgroups: no.it.os.unix.linux.diverse,no.it.os.unix.diverse
+Subject: [BLUG] Last Thursday, Bergen: Torsdag 26. oktober 2000, kl 18.00
+Original-Sender: peter@datadok.no
+Cc: blug@blug.linux.no
+From: "Peter N. M. Hansteen" <peter@datadok.no>
+Date: 17 Oct 2000 11:55:28 +0100
+Message-ID: <wk1yxfspnj.fsf@datadok.no>
+Organization: Datadokumentasjon A/S
+Lines: 82
+X-Newsreader: Gnus v5.7/Emacs 20.6
+Posted-To: no.it.os.unix.linux.diverse,no.it.os.unix.diverse
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+X-Loop: HEREALREADY
+Status:   
+
+The following message is a courtesy copy of an article
+that has been posted to no.it.os.unix.linux.diverse,no.it.os.unix.diverse as well.
+
+Bergen Linux User Group fortsetter sin møteserie "Last Thursday" for
+Linux-brukere og andre interesserte 
+
+	Torsdag 26. oktober 2000, kl 18.00
+	Rom 2142, Høyteknologisenteret, 
+	Thormøhlens gate 55, Bergen
+
+Programmet for møtet er:	
+
+ ~ "Linux Terminal Server" - Øyvind Flåm orienterer og demonstrerer
+
+ ~ "BLUG -- hva nå?" - friformdiskusjon om hva vi skal gjøre videre
+   i BLUG-regi, nå som vi er på tampen av en relativt vellykket høst.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 20.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+BLUG-kernel har ikke denne gangen sørget for mangfoldiggjøring av
+distribusjoner på CD, men dersom noen føler seg kallet, er det åpent
+for CD-aktiviteter.
+
+MERK:	Høyteknologisenteret har et finurlig utformet 
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden. 
+	Vi vil gjøre vårt beste for å ha folk i døren 
+	for å slippe inn fra ca 17.45 til vel 18.00.
+
+Som antydet i tittelen har vi lagt opp til en serie med møter *siste
+torsdag i måneden*. På den foreløpige møteplanen gjenstår nå bare
+ett møte til etter dette. Det blir:
+
+Torsdag 30. november 2000, kl 18.00
+
+om det er noe poeng med møter i desember og hva vi gjør til våren
+blir forhåpentligvis litt klarere i løpet av oktober-møtet.
+
+Forhåpentligvis kan vi basere oss på møter i høyteknologisenteret.
+Mulige emner som har vært nevnt i elektroniske og andre diskusjoner
+er:
+
+* linux og trådløse nettverk, radiolink osv
+
+* linux og docbook ({SG,X}ML) i virkelige programvareprosjekter
+
+* samarbeid om å skaffe fastlinje til interesserte medlemmer og dele
+  på utgiftene.
+
+* installfest (post-install-fest (ikke nødvendigvis nachspiel)).
+
+* linux på lomme-pc-er, anskaffe samme type utstyr for å dele
+  erfaringer.
+
+* tynne klienter (diskløse linux-er som booter fra server og 
+  kjører X).
+
+* Grafikk-program, demonstrasjon av det programmet du har satt deg
+  inn i.
+
+Vi benytter oss igjen av muligheten til å minne om BLUGs hjemmeside,
+som langsomt vokser innholds- og utformingsmessig på
+url:http://www.blug.linux.no.  Der finner du løpende oppdatert info om
+brukergruppen og annet linux-relatert stoff. En annen viktig kanal for
+kommunikasjon med og mellom BLUG-medlemmer er epostlisten,
+mailto:blug@blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@datadok.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Hjelp til bruk av blug-listen fås ved å sende melding til
+mailto:majordomo@blug.linux.no med teksten
+
+help
+
+som meldingstekst (ikke emne), påmelding ved melding til 
+mailto:majordomo@blug.linux.no med 
+
+subscribe 
+
+som eneste tekst.
+
