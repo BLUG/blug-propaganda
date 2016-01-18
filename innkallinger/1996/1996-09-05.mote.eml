@@ -1,0 +1,41 @@
+Return-Path: magnus@ii.uib.no
+Received: from online.no (pat.online.no [193.212.1.13]) by delilah.datadok.no (8.7.5/8.7.3) with ESMTP id KAA00278 for <peter@datadok.no>; Tue, 3 Sep 1996 10:16:05 +0200
+Received: from ekeberg.sn.no (ekeberg.sn.no [194.143.8.8]) by online.no (8.7.5/8.7.3) with ESMTP id HAA19820 for <peter@datadok.no>; Tue, 3 Sep 1996 07:02:02 +0200 (MET DST)
+Received: from eik (eik.ii.uib.no [129.177.16.3]) by ekeberg.sn.no (8.7.5/8.7.3/on4)
+	with SMTP id <GAA22152>; Tue, 3 Sep 1996 06:59:00 +0200 (MET DST)
+Received: from vipe.ii.uib.no (vipe) by eik with SMTP id AA25632
+  (5.67b/IDA-1.5 for oste@sn.no); Tue, 3 Sep 1996 06:58:57 +0200
+Received: by vipe.ii.uib.no; (5.65/1.1.8.2/08Jun94-0756AM)
+	id AA24513; Tue, 3 Sep 1996 06:58:56 +0200
+To: linux@ii.uib.no
+Subject: BLUG-møte!
+From: Magnus Y Alvestad <magnus@ii.uib.no>
+Date: 03 Sep 1996 06:58:55 +0200
+Message-Id: <evafv89ots.fsf@vipe.ii.uib.no>
+Lines: 23
+X-Mailer: Red Gnus v0.23/Emacs 19.32
+Status:   
+
+Det skal være nytt medlemsmøte i Bergen Linux User Group (BLUG)
+klokken 18:30 torsdag 5. september.  Stedet er 'som vanlig'
+Høyteknologisenteret i Bergen, antagelig store auditorium i andre
+etasje (teknologiblokken).
+
+Hvis du kommer utenfra må du møte opp ved hovedinngangen _presis_
+18:30, slik at vi kan slippe deg inn.
+
+Programmet er dessverre ikke helt klart ennå, men her er noen idéer:
+
+o Magnus og Ketil forteller om (og demonstrerer?) Linux på Alpha.
+  Forskjeller mellom Alpha og Intel, ytelse, pris osv.
+
+o Magnus sier noen ord om Hurd, en 'konkurrent'.
+
+o Hvem driver kommersielt med Linux i Norge - en oversikt.
+
+o Hvordan man kan bruke en Linux-server til å lage 'Intranett'.
+
+o Hva har skjedd med kjernen i det siste, og hva kommer til å skje
+  framover?
+
+-Magnus (überstormführer) 

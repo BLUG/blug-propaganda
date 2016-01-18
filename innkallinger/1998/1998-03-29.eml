@@ -1,0 +1,47 @@
+Return-Path: <blug-return-80-peter=datadok.no@gs.bergen.hl.no>
+Received: from bryggen.bgnett.no (bryggen-gw.bgnett.no [194.54.97.17])
+	by delilah.datadok.no (8.8.5/8.8.5) with ESMTP id AAA04502
+	for <peter@datadok.no>; Wed, 25 Mar 1998 00:14:23 +0100
+Received: from mail.gs.bergen.hl.no (qmailr@vev1.gs.bergen.hl.no [193.214.40.10])
+	by bryggen.bgnett.no (8.8.8/8.8.5/brage2.1) with SMTP id WAA08797
+	for <peter@datadok.no>; Tue, 24 Mar 1998 22:58:07 GMT
+Received: (qmail 32204 invoked by uid 77); 24 Mar 1998 22:57:05 -0000
+Mailing-List: contact blug-help@gs.bergen.hl.no; run by ezmlm
+Delivered-To: mailing list blug@gs.bergen.hl.no
+Received: (qmail 32197 invoked from network); 24 Mar 1998 22:57:04 -0000
+Received: from ulrikken.gs.bergen.hl.no (HELO gs.bergen.hl.no) (@193.214.40.2)
+  by vev1.gs.bergen.hl.no with SMTP; 24 Mar 1998 22:57:04 -0000
+Sender: vidar@bryggen.bgnett.no
+Message-ID: <35183A43.23FE928B@gs.bergen.hl.no>
+Date: Tue, 24 Mar 1998 23:57:07 +0100
+From: "Vidar Haugsvær" <vidar@gs.bergen.hl.no>
+X-Mailer: Mozilla 4.04 [en] (X11; I; Linux 2.0.32 i586)
+MIME-Version: 1.0
+To: blug@gs.bergen.hl.no
+Subject: Bergen Linux User group møte søndag 29. Mars
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status:   
+
+orslag til møteinnkalling:
+Bergen Linux User Group holder møte igjen.
+
+Sted: 		Gimle skole (ved Haukelandshallen). 3. etasje
+Adkomst:        Gule busser - se rutehefte. Bil, sykkel, taxi og
+apostlenes hester.
+Dato:           Søndag 29. Mars
+Tidspunkt: 	14.00
+
+Agenda:
+
+* Logokonkurranse
+* Møteplan våren 1998
+* Mer rpm - Hvordan lage din egen rpm?
+* Linux og squid som www-cache server. (http://squid.nlanr.net/)
+* VNC - Virtual Network Computing (se http://www.orl.co.uk/vnc/ for mer
+info).
+* Eventuellt
+
+(Med håp om flere punkter på listen frem til søndag).
+-- 
+Vidar Haugsvær 
