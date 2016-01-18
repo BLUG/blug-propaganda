@@ -1,0 +1,266 @@
+From owner-blug-outgoing@engen.priv.no  Sat Feb 17 11:25:55 2001
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 0012F30A7FA; Sat, 17 Feb 2001 11:25:54 +0100 (CET)
+Delivered-To: blug@engen.priv.no
+Received: from post.bgnett.no (post.bgnett.no [194.54.96.133])
+	by vegard.engen.priv.no (Postfix) with ESMTP id F09F730A7DB
+	for <blug@blug.linux.no>; Sat, 17 Feb 2001 11:25:52 +0100 (CET)
+Received: from tosh.bgnett.no (lppp199.bgnett.no [194.54.100.199])
+	by post.bgnett.no (8.8.8/8.8.8) with ESMTP id LAA29732;
+	Sat, 17 Feb 2001 11:25:50 +0100 (CET)
+	(envelope-from peter@bgnett.no)
+Date: Sat, 17 Feb 2001 11:25:49 +0100 (CET)
+Message-Id: <200102171025.LAA29732@post.bgnett.no>
+From: "Peter N. M. Hansteen" <peter@bgnett.no>
+To: blug@blug.linux.no
+Subject: PRESSEMELDING: linux på nynorsk, nummer to i linux-verden kommer til Bergen
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+Status: RO
+Content-Length: 10899
+Lines: 239
+
+
+PRESSEMELDING: Stor aktivitet blant Linux-brukere i Bergen.
+	       Viktig nynorsk-initiativ for datamaskinbrukere 
+	       Verdens nest viktigste Linux-utvikler kommer til Bergen
+
+Bergen, 17. februar 2001: Bergen Linux User Group (BLUG) annonserte i
+dag hovedpunktene i sin møteplan for våren 2001, som inneholder en
+rekke viktige hendelser for datamaskinbrukere, spesielt de som bor i
+Bergen.
+
+I dag, 17. februar 2001, arrangerer BLUG den første "installfesten"
+på et par år i Bergen.
+ 
+Installfest er et kjent og kjært begrep i linux/fri
+programvare-miljøet.  Kort og godt dreier det seg om et offentlig
+arrangement der kyndige personer og en rekke datamaskiner med store
+mengder programvare er tilgjengelig og interesserte kan komme og
+få hjelp til å installere linux, sette opp sine linux-systemer til
+å gjøre interessante ting, vise andre hva man kan gjøre med fri
+programvare, eller rett og slett treffe andre som bruker eller har 
+lyst til å bruke fri programvare.
+
+Arrangementet går av stabelen kl 10-18 i lokalene til firmaet Websys
+AS i Fabrikkgaten 3. "Ut fra uforpliktende forhåndspåmelding via
+epostlisten vår antar vi at det vil være rundt 50 personer innom, men
+folk har det jo med å dukke opp uanmeldt", sier Peter Hansteen, medlem
+av "kjernegruppen" i BLUG med et skjevt smil over kaffekoppen "kanskje
+pizzaen som Websys spanderer denne gangen i seg selv vil lokke noen".
+
+Det neste arrangementet i BLUG-regi er februarmøtet i serien "last
+thursday" - for det kalles de vanlige medlemsmøtene blant
+linux-entusiaster i Bergen - der temaet er "Programvare på ditt eget
+språk. Om arbeidet med nynorsk utgave av skrivebordsmiljøet KDE, hva
+som måtte til, språklig og teknisk". 
+
+Møtet foregår på tradisjonelt tidspunkt og sted, siste torsdag i
+måneden (22. februar), klokken 19, i Stort Auditorium på
+Høyteknologisenteret. Foredragsholder er Gaute Hvoslef Kvalnes, som på
+eget initiativ laget noe datamaskinen hans manglet, nemlig programvare
+som snakket nynorsk.
+
+Gaute Kvalnes hadde heldigvis valgt å bruke et system der kildekoden
+(teksten som programmerere leser og skriver, men som må oversettes til
+en utførbar form som datamaskinen forstår slik at programmene kan
+brukes) var tilgjengelig. Siden skrivebordsmiljøet KDE - som er laget
+for å gjøre linux minst like lett å komme i gang med å bruke som mer
+kjente systemer og inneholder programmer for epost, web-lesing,
+tekstbehandling og mye annet - er fri programvare, har alle som har
+ressursene til det, mulighet til å gjøre seg kjent med systemene de
+bruker innenfra og gjøre alle de tilpasningene man måtte ønske.
+
+Gaute likte KDE på Linux veldig godt som arbeidsmiljø, og ønsket seg
+egentlig bare én ting: at systemet forsto det språket han selv
+snakket.
+
+Et år senere hadde han det. Ved siden av ingeniørstudiene ved
+Høyskolen i Bergen gikk Gaute i gang med å oversette systemet han
+brukte, program for program. Datamaskinen ble stadig mer nynorsk, og
+de viste det seg at det lot seg gjøre å oversette systemet til et nytt
+språk samtidig som det var i bruk og under aktiv utvikling. Da Gaute
+trodde han var ferdig, ble en ny versjon av KDE offentliggjort, med
+store mengder nytt materiale som Gaute ikke hadde fått gjort noe
+med. Gaute kontaktet de som leder utviklingen av KDE - alle frie
+programvareprosjekter ledes av en eller få personer som avgjør hva som
+skal være med i den offisielle utgaven av programvaren - og fikk
+innlemmet det han allerede hadde gjort i den offisielle utgaven av
+KDE. Det viste seg at det meste av arbeidet med nynorsk-utgaven slett
+ikke hadde vært forgjeves, og kort tid etter var KDE blitt oppdatert
+med en komplett utgave på nynorsk. "Fordi Gaute hadde valgt å bruke
+fri programvare, var han på egen hånd i stand til å lage det han og
+mange andre trengte, uten juridiske viderverdigheter eller store
+kostnader.  Det har vært hevdet at det Gaute klarte å få gjort ved
+siden av studiene, ville kostet mange millioner kroner hvis det hadde
+dreid seg om tilsvarende ikke-frie systemer", sier Hansteen.
+
+Den 26. april 2001 kommer det som mange vil regne som høydepunktet
+blant torsdagsmøtene i Bergen. Foredragsholderen på april-møtet er
+nemlig Alan Cox, "nummer to" i hierarkiet av programmererne som
+utvikler operativsystemkjernen Linux. Alan skal være noen dager i
+Bergen, og holder foredrag om det som er viktig i linux-sammenheng i
+april. "Vi vet alle at ting skjer fort i linux-verdenen, så vi har
+ikke presset Alan Cox til å fastsette noen tittel på foredraget enda",
+sier Hansteen, "Men han kommer, skal være her noen dager, takket være
+velvillig sponsing fra konsulentfirmaet BDC, og han skal altså holde
+foredrag for BLUG siste torsdag i april". 
+
+Alan Cox, som bor og arbeider i Swansea, Wales, har siden kort tid
+etter at Linus Torvalds offentliggjorde de første versjonene av Linux
+via internett i 1991 deltatt i utviklingen av operativsystemkjernen.
+
+Etter at han over lengre tid hadde bidratt med mange viktige
+komponenter og bidratt til å heve kvaliteten på koden i linux-kjernen
+generelt, har Alan Cox i de senere år vært den som har fungert som
+Linus Torvalds' "høyre hånd". 
+
+Alan programmerer selv vesentlige deler av linux-kjernen, og er den
+som koordinerer vedlikeholdet av de såkalt stabile kjerneversjonene
+(produksjonsversjonene). Han er også den som i praksis står for
+grovsorteringen av de tallrike bidragene i form av programkode som
+strømmer inn fra enkeltpersoner og bedrifter som vil ha noe med i
+operativsystemkjernen. Det er velkjent i Linux-miljøet at en "patch" -
+ny eller endret programkode som man ønsker å få inn i linux-kjernen -
+har vesentlig større sjanse til å bli godtatt av Linus Torvalds og
+innlemmet i den offisielle versjonen av linux-kjernen hvis den på
+forhånd er godkjent av Alan Cox.
+
+I tillegg til foredraget håper vi med bistand fra Alan Cox på å få til
+et teknisk stunt som vil gjøre Linux til det systemet i verden som i
+størst grad overholder alle Internett-standarder. Mer detaljert
+informasjon om dette vil bli offentliggjort når de aktuelle
+komponentene er mer ferdig testet.
+
+Om BLUG: Bergen Linux User Group (BLUG) har en historie som går et
+stykke tilbake på det mørke nittitallet, da det ble satt i gang en
+mailingliste på ii.uib.no for linux-interesserte. Ryktet spredde seg
+via nyhetsgruppen no.linux, og det tok ikke særlig lang tid før
+linuxere utenfor universitetet hadde meldt seg. Møtevirksomhet har
+foregått i tre separate perioder, den første såvidt vites i 1996 eller
+1997 (det tilgjengelige epostarkiv for BLUG-listen er av en eller
+annen grunn ikke komplett lenger tilbake enn 2. mail 1998), så en
+periode på vår/sommer 1998. 1999 var tydeligvis et passivt år (mitt
+arkiv inneholder totalt 17 meldinger for det året). Så i mars 2000
+førte et initiativ fra Karl Magnus Kolstø til at det ble holdt en
+serie forberedende møter, som så har ført til møteaktivitet med
+plenumsmøter siste torsdag i måneden.
+
+- hvilke arrangementer har vært kjørt så langt
+
+Første "Last Thursday"-møte ble holdt torsdag 8. juni 2000 (man fryktet
+at siste torsdag i juni ville være for sent til å få med seg studenter) i
+Rom 2142 på Høyteknologisenteret, et auditorium med ca 60 plasser.
+Emnene på sakslisten var
+
+~ Fri programvare - hva er det og hvorfor er det av betydning, ved Johan 
+  Riise
+~ Innføring i bruk av Linux, ved Magnus Alvestad
+~ Introduksjon til Bergen Linux User Group, ved Peter N. M. Hansteen
+
+Referat fra dette møtet finnes på www.blug.linux.no under "møter"
+eller liknende.
+
+Høstsemesteret startet med møte samme sted 31.august 2000, med emnene
+
+~ Hva skjer når maskinen starter - et blikk på /etc/rc*, ved Johan Riise
+
+~ Dele disken i fornuftige biter - partisjonering, hvorfor, hvordan
+  og hva som *egentlig* skjer, ved Vegard Engen og Øyvind Flåm
+
+Neste møte var 28. september 2000, med emnene
+
+~ "We do windows, too" - Vegard Engen demonstrerer hva man kan
+  gjøre i Windows NT inni VMware på linux - og kanskje kommer win4lin
+
+~ En innføring i fil- og katalog-rettigheter. Viktig å lære, nyttig å
+  gjenoppfriske, ved Karl Magnus Kolstø
+
+Oktobermøtet gikk av stabelen 26. oktober 2000, med emnene
+
+~ "Linux Terminal Server" - Øyvind Flåm orienterer og demonstrerer
+~ "BLUG -- hva nå?" - friformdiskusjon omhva viskal gjøre videre i
+  BLUG-regi, nå som vi er på tampen av en relativt vellykket høst"
+
+Siste plenumsmøte i høstsemesteret ble holdt 30. november 2000, med
+emnene
+
+~ "Fra snikinnført boks i hjørnet til hovedverktøy" -- Ketil Malde
+  orienterer om hvordan linux, doxygen, bugzilla og annen fri
+  programvare blir stadig mer sentrale verktøy hos Nera.
+
+~ "Siden sist og eventuelt" - aktivitet siden sist og hva vi har lyst til
+  å gjøre.
+
+Første møte i 2001 ble arrangert Torsdag 25. januar 2001, med emnet
+
+~ "Hva man kan gjøre med DNS en torsdagskveld -- Nicolai Langfeldt fra
+  Linpro forklarte og viste bruk og misbruk av BIND 4, BIND 9,
+  dynamisk DNS og andre avanserte emner innen internett-navnetjeneste.
+  Nicolai (forfatter av DNS-HOWTO og "The Consise Guide to DNS and
+  BIND") hadde også med seg et lite antall eksemplarer av den
+  nyutkomne boken. De beste spørsmålene fra salen ble belønnet med
+  signert eksemplar av boken.
+
+>     - hvor mange stiller på møtene
+
+
+
+Møtene har vært gratis og med fri adgang (bare begrenset av tilgjengelighet
+av dørlos med nøkkelkort til høyteknologisenteret), så pinlig nøyaktige
+oppmøtetall foreligger ikke. På juni-møtet har vi gode anslag på at ca 50
+personer møtte opp, mens på de andre møtene har vi hatt varierende antall,
+fra ca 20 til ca 40 personer. Møtene har hatt en tendens til å inspirere 
+til
+"fagøl" på passende utested etter at den formelle, faglige delen er 
+fullført.
+
+>     - hvem arrangerer
+
+
+BLUG-kernel! [;)]
+
+Bak møtene i 2000 og fremover står en gruppe frivillige, der disse
+har vært av de mest utholdende:
+
+Karl Magnus Kolstø, Avdelingsingeniør, Institutt for den faste jords 
+fysikk, UiB
+Vegard Engen, Konsulent i Bergen Data Consulting (BDC)
+Øyvind Flåm, Konsulent i BDC,
+Johan Ur Riise, Konsulent, tidligere bl. a. Avenir, nå selvstendig
+Håvard Lygre, Partner i Bergen IT-Teknikk
+Jon Trygve Utne, Senior systemkonsulent, DnB IT
+Peter N. M. Hansteen, Seniorkonsulent, Datadokumentasjon A/S
+
+BLUG mangler så langt en formell organisasjon. I BLUG-kernel har emnet
+"formalisering og medlemskap" flere ganger vært tatt opp til
+diskusjon, uten at det så langt har munnet ut i konkrete forslag.
+
+>     - hvordan annonseres møtene, spesifikt med tanke
+>       på denne DNS-seansen
+
+
+Møtene har hittil vært annonsert direkte på BLUG-listen og
+nyhetsgruppene no.it.os.unix.linux.diverse, no.it.os.unix.diverse og
+comp.os.linux.announce.
+
+Redaksjonell kontakt: 
+
+BLUG på web: http://www.blug.linux.no inneholder informasjon om
+BLUG og aktivitetene våre
+
+Peter Hansteen er tilgjengelig via epost, peter@bgnett.no eller
+telefon 98 07 12 63
+
+Gaute Hvoslef Kvalnes er tilgjengelig via epost, gaute@verdsveven.com
+eller telefon 99 62 92 44
+
+
+
+
+
+
+
