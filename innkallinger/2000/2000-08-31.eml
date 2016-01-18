@@ -1,0 +1,101 @@
+Return-Path: <blug-return-337-peter=datadok.no@gs.bergen.hl.no>
+Received: from mail.gs.bergen.hl.no (IDENT:qmailr@blug.gs.bergen.hl.no [193.214.40.10])
+	by delilah.datadok.no (8.9.3/8.8.7) with SMTP id IAA30137
+	for <peter@datadok.no>; Fri, 25 Aug 2000 08:56:47 +0200
+Received: (qmail 11714 invoked by alias); 25 Aug 2000 07:06:29 -0000
+Mailing-List: contact blug-help@gs.bergen.hl.no; run by ezmlm
+Delivered-To: mailing list blug@gs.bergen.hl.no
+Received: (qmail 11706 invoked from network); 25 Aug 2000 07:06:27 -0000
+Received: from post.bgnett.no (194.54.96.133)
+  by vev1.gs.bergen.hl.no with SMTP; 25 Aug 2000 07:06:27 -0000
+Received: from delilah.datadok.no (gw.datadok.no [194.54.98.152])
+	by post.bgnett.no (8.8.8/8.8.8) with ESMTP id JAA03902;
+	Fri, 25 Aug 2000 09:05:58 +0200 (CEST)
+	(envelope-from peter@datadok.no)
+Received: from siemens02.datadok.no (siemens02.datadok.no [194.54.103.75])
+	by delilah.datadok.no (8.9.3/8.8.7) with ESMTP id IAA30113;
+	Fri, 25 Aug 2000 08:55:33 +0200
+Message-Id: <4.3.2.7.0.20000824083708.039f6c60@mail.datadok.no>
+X-Sender: peter@mail.datadok.no
+X-Mailer: QUALCOMM Windows Eudora Version 4.3.2
+Date: Thu, 24 Aug 2000 09:19:44 +0100
+To: blug@gs.bergen.hl.no
+From: "Peter N. M. Hansteen" <peter@datadok.no>
+Subject: Last Thursday in Bergen: Første høstmøte for Linux-brukere og
+  interesserte
+Cc: styret@linux.no, pulsen@ba.no, internett@ba.no
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Status:   
+
+Bergen Linux User Group innleder høstsemester-delen av sin 
+møteserie "Last Thursday" for Linux-brukere og andre interesserte 
+
+	Torsdag 31. august 2000, kl 18.00
+	Rom 2142, Høyteknologisenteret, 
+	Thormøhlens gate 55, Bergen
+
+Programmet for møtet er:	
+
+ ~ Hva skjer når maskinen starter - et blikk på /etc/rc*
+   - ved Johan Riise
+
+ ~ Dele disken i fornuftige biter - partisjonering, hvorfor,
+   hvordan og hva som *egentlig* skjer - ved Vegard Engen og
+   Øyvind Flåm
+
+Vi legger opp til at den formelle, disiplinerte faglige delen av møtet
+vil være fullført ca kl 20.00, med overgang til mer uformelle og
+kanskje til og med sosialt pregete aktiviteter.
+
+Vi har denne gangen *ikke* laget noen CD-bunke, men skulle noen
+likevel føle trangen til for eksempel å svi noen ferske Debian,
+vil det ikke bli lagt hindringer i veien for dette.
+
+MERK:	Høyteknologisenteret har et finurlig utformet 
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden. 
+	Vi vil gjøre vårt beste for å ha folk i døren 
+	for å slippe inn fra ca 17.45 til vel 18.00.
+
+Som antydet i tittelen har vi lagt opp til en serie med møter *siste
+torsdag i måneden*. 
+
+Foreløpig møteplan er:
+
+Torsdag 28. september 2000, kl 18.00
+Torsdag 25. oktober 2000, kl 18.00
+Torsdag 29. november 2000, kl 18.00
+
+Forhåpentligvis kan vi basere oss på møter i høyteknologisenteret.
+Tema for møtene er ikke fastsatt, men blant mulige emner som har
+vært nevnt i elektroniske og andre diskusjoner er:
+
+* samarbeid om å skaffe fastlinje til interesserte medlemmer og dele
+  på utgiftene.
+
+* installfest (post-install-fest (ikke nødvendigvis nachspiel)).
+
+* linux på lomme-pc-er, anskaffe samme type utstyr for å dele
+  erfaringer.
+
+* tynne klienter (diskløse linux-er som booter fra server og 
+  kjører X).
+
+* Grafikk-program, demonstrasjon av av det programmet du har satt deg
+  inn i.
+
+Vi benytter oss igjen av muligheten til å minne om BLUGs hjemmeside,
+som langsomt vokser innholds- og utformingsmessig på
+url:http://www.bbb.no/blug.  Der finner du løpende oppdatert info om
+brukergruppen og annet linux-relatert stoff. En annen viktig kanal for
+kommunikasjon med og mellom BLUG-medlemmer er epostlisten,
+mailto:blug@gs.bergen.hl.no
+
+Spørsmål kan rettes til avsender, mailto:peter@datadok.no eller til
+blug-listen mailto:blug@gs.bergen.hl.no
+-- 
+Peter N. M. Hansteen  peter@datadok.no http://www.datadok.no 
+Datadokumentasjon A/S, Bredsgaarden 2, N-5003 Bergen, Norway
+Tel: +47 55 32 08 02                    Fax: +47 55 32 14 95 
