@@ -1,0 +1,99 @@
+From owner-blug-outgoing@engen.priv.no  Mon Feb 25 21:48:11 2002
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id DE71030A7FB; Mon, 25 Feb 2002 21:48:10 +0100 (CET)
+Delivered-To: blug@engen.priv.no
+Received: from bryggen.bgnett.no (bryggen.bgnett.no [194.54.96.130])
+	by vegard.engen.priv.no (Postfix) with ESMTP id EE4BA30A7F0
+	for <blug@blug.linux.no>; Mon, 25 Feb 2002 21:48:09 +0100 (CET)
+Received: from tosh.bgnett.no ([194.54.107.19])
+	by bryggen.bgnett.no (8.8.8/8.8.5/brage2.1) with ESMTP id UAA25435
+	for <blug@blug.linux.no>; Mon, 25 Feb 2002 20:48:31 GMT
+To: blug@blug.linux.no
+Subject: [BLUG] Februar-møtet: PAM (Pluggable Authentication Modules)
+From: peter@bgnett.no (Peter N. M. Hansteen)
+Date: 25 Feb 2002 21:44:12 +0100
+Message-ID: <87heo5e1gj.fsf@bgnett.no>
+X-Mailer: Gnus v5.7/Emacs 20.7
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+Status: RO
+Content-Length: 2448
+Lines: 71
+
+
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last
+Thursday"
+
+   Torsdag 28. februar 2002, kl 19.00
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+~ Autentisering med PAM (Pluggable Authentication Modules) 
+  - ved Dag-Erling Smørgrav, "bugmeister" i FreeBSD.
+  
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er altså det andre møtet i vårsemesteret 2002. Vi legger som
+tidligere opp til at det blir møter *siste torsdag i måneden*. 
+Foreløpig liste over møtedatoer og -tider er:
+
+      INSTALLFEST søndag 10. mars 2002 - detaljer kommer senere
+      Torsdag 21. mars 2002, kl 19.00 (Merk datoen! hint: påske)
+      Torsdag 25. april 2002, kl 19.00
+      Torsdag 30. mai 2002, kl 19.00
+
+Dersom ikke annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret. Blant de mulige emnene som har vært nevnt i
+elektroniske og andre diskusjoner er:
+
+* linux og trådløse nettverk, radiolink osv
+
+* linux og docbook ({SG,X}ML) i virkelige programvareprosjekter
+
+* installfest (post-install-fest (ikke nødvendigvis nachspiel))
+
+* linux på lomme-pc-er, anskaffe samme type utstyr for å dele
+  erfaringer
+
+* forskjellige tilnærminger til "doing unusual things with freenixes
+  for fun and occasional profit"
+
+Vi benytter oss igjen av muligheten til å minne om BLUGs hjemmeside,
+som langsomt vokser innholds- og utformingsmessig på
+url:http://www.blug.linux.no.  Der finner du løpende oppdatert info om
+brukergruppen og annet linux-relatert stoff. En annen viktig kanal for
+kommunikasjon med og mellom BLUG-medlemmer er epostlisten,
+mailto:blug@blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Hjelp til bruk av blug-listen fås ved å sende melding til
+mailto:majordomo@blug.linux.no med teksten
+
+help
+
+som meldingstekst (ikke emne), påmelding ved melding til
+mailto:majordomo@blug.linux.no med
+
+subscribe
+
+som eneste tekst.
+
+
+
+
