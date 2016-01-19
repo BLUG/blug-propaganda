@@ -1,0 +1,117 @@
+From owner-blug-outgoing@engen.priv.no  Wed Sep 25 09:30:38 2002
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 8B6F930AD3A; Wed, 25 Sep 2002 09:30:37 +0200 (CEST)
+Delivered-To: blug@engen.priv.no
+Received: from vs.bgnett.no (vs.bgnett.no [194.54.96.159])
+	by vegard.engen.priv.no (Postfix) with ESMTP id A941B30AD38
+	for <blug@blug.linux.no>; Wed, 25 Sep 2002 09:30:36 +0200 (CEST)
+Received: (from root@localhost)
+	by vs.bgnett.no (8.11.3/8.11.3) id g8P7VFJ47290
+	for blug@blug.linux.no; Wed, 25 Sep 2002 09:31:15 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+Received: from tosh.datadok.no.bgnett.no ([194.54.103.99])
+	by vs.bgnett.no (8.11.3/8.11.3av) with ESMTP id g8P7VCw47282
+	for <blug@blug.linux.no>; Wed, 25 Sep 2002 09:31:13 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+Newsgroups: no.it.os.unix.linux.diverse,no.it.os.unix.diverse,no.it.diverse
+Subject: I morgen: Last Thursday om Zope - BLUG, Bergen torsdag 26.09.02 kl 19
+Original-Sender: peter@bgnett.no
+From: "Peter N. M. Hansteen" <peter@bgnett.no>
+Cc: blug@blug.linux.no
+Date: 25 Sep 2002 09:29:34 +0200
+Message-ID: <87y99qplwh.fsf@tosh.datadok.no>
+Organization: Only to a certain degree
+User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Posted-To: no.it.os.unix.linux.diverse,no.it.os.unix.diverse,no.it.diverse
+X-Virus-Scanned: by vs.bgnett.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+Status: RO
+Content-Length: 2878
+Lines: 73
+
+The following message is a courtesy copy of an article
+that has been posted to no.it.os.unix.linux.diverse,no.it.os.unix.diverse,no.it.diverse as well.
+
+
+Vi minner om at Bergen (BSD and) Linux User Group fortsetter
+m=F8teserien "Last Thursday"
+
+   Torsdag 26. september 2002, kl 19.00=20
+   Stort auditorium, H=F8yteknologisenteret,
+   Thorm=F8hlens gate 55, Bergen
+
+M=F8tet er gratis og =E5pent for alle interesserte, med programmet:
+
+~ Zope - et programsystem for =E5 lage dynamiske websteder -=20
+  ved Ruben Olsen.
+
+  Fra http://www.zope.org/ har vi sakset f=F8lgende: "Zope is a leading
+  open source application server, specializing in content management,
+  portals, and custom applications.  Zope enables teams to collaborate
+  in the creation and management of dynamic web-based business
+  applications such as intranets and portals."
+=20=20
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av m=F8tet vil v=E6re fullf=F8rt ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fag=F8l og annet sosialt.
+
+MERK:	H=F8yteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gj=F8r at man ikke uten=20
+	videre slipper inn uten kontakter p=E5 innsiden.=20=20
+	Vi vil gj=F8re v=E5rt beste for =E5 ha folk i d=F8ren for=20
+	=E5 slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det andre m=F8tet i h=F8stsemesteret 2002. Vi legger opp til at
+det ogs=E5 i h=F8st vil bli m=F8ter *siste torsdag i m=E5neden*. Forel=F8pig
+m=F8teplan for resten av h=F8stsemesteret ser slik ut:
+
+   Torsdag 31. oktober 2002, kl 19.00 - Skolelinux v/ Knut Yrvin
+   Torsdag 28. november 2002, kl 19.00 - ikke fastsatt
+
+Dersom ikke annet blir annonsert, vil m=F8tene fortsatt foreg=E5 p=E5
+h=F8yteknologisenteret. Blant de mulige emnene som har v=E6rt nevnt i
+elektroniske og andre diskusjoner er:
+
+* linux og tr=E5dl=F8se nettverk, radiolink osv
+
+* installfest (post-install-fest (ikke n=F8dvendigvis nachspiel))
+
+* linux p=E5 lomme-pc-er, anskaffe samme type utstyr for =E5 dele
+  erfaringer
+
+* forskjellige tiln=E6rminger til "doing unusual things with freenixes
+  for fun and occasional profit"
+
+Vi benytter oss igjen av muligheten til =E5 minne om BLUGs hjemmeside,
+som langsomt vokser innholds- og utformingsmessig p=E5
+url:http://www.blug.linux.no.  Der finner du l=F8pende oppdatert info om
+brukergruppen og annet linux-relatert stoff. En annen viktig kanal for
+kommunikasjon med og mellom BLUG-medlemmer er epostlisten,
+mailto:blug@blug.linux.no.
+
+Sp=F8rsm=E5l kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Hjelp til bruk av blug-listen f=E5s ved =E5 sende melding til
+mailto:majordomo@blug.linux.no med teksten
+
+help
+
+som meldingstekst (ikke emne), p=E5melding ved melding til
+mailto:majordomo@blug.linux.no med
+
+subscribe
+
+som eneste tekst.
+
+
+
+
