@@ -1,0 +1,84 @@
+From owner-blug-outgoing@engen.priv.no  Mon Apr 21 22:32:12 2003
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 916A830AD33; Mon, 21 Apr 2003 22:32:11 +0200 (CEST)
+Delivered-To: blug@engen.priv.no
+Received: from vs.bgnett.no (vs.bgnett.no [194.54.96.159])
+	by vegard.engen.priv.no (Postfix) with ESMTP id C87C930AD30
+	for <blug@blug.linux.no>; Mon, 21 Apr 2003 22:32:10 +0200 (CEST)
+Received: (from root@localhost)
+	by vs.bgnett.no (8.11.3/8.11.3) id h3LKL9B42883
+	for blug@blug.linux.no; Mon, 21 Apr 2003 22:21:09 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+Received: from tosh.datadok.no.bgnett.no ([194.54.107.19])
+	by vs.bgnett.no (8.11.3/8.11.3av) with ESMTP id h3LKL5S42861
+	for <blug@blug.linux.no>; Mon, 21 Apr 2003 22:21:06 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+To: blug@blug.linux.no
+Subject: Last Thursday, 24. april 2003: PHP, intro og praksis
+From: peter@bgnett.no (Peter N. M. Hansteen)
+Date: 21 Apr 2003 22:29:59 +0200
+Message-ID: <87wuhn1tmg.fsf@tosh.datadok.no>
+User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by vs.bgnett.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+Status: RO
+Content-Length: 1915
+Lines: 46
+
+
+Bergen (BSD and) Linux User Group fortsetter m=F8teserien "Last Thursday"
+
+   Torsdag 24. april 2003, kl 19.00=20
+   Stort auditorium, H=F8yteknologisenteret,
+   Thorm=F8hlens gate 55, Bergen
+
+M=F8tet er gratis og =E5pent for alle interesserte, med programmet:
+
+~  Introduksjon til PHP med vekt p=E5 en praktisk applikasjon,
+   ved Jakob Breivik Grimstveit og Ove Ruben R Olsen
+
+   Implementasjon av enkelt BLOG-verkt=F8y i PHP samt en syntaksgjennomgang
+   av PHP som spr=E5k. BLOG-applikasjonen vil benytte MySQL som database i=
+=20
+   bunnen og det vil dermed ogs=E5 bli en rask introduksjon til databaser=20
+   og SQL. Dersom tiden tillater blir det ogs=E5 en kort gjennomgang av=20
+   de moduler som finnes i PHP.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av m=F8tet vil v=E6re fullf=F8rt ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fag=F8l og annet sosialt.
+
+MERK:	H=F8yteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gj=F8r at man ikke uten=20
+	videre slipper inn uten kontakter p=E5 innsiden.=20=20
+	Vi vil gj=F8re v=E5rt beste for =E5 ha folk i d=F8ren for=20
+	=E5 slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det fjerde plenumsm=F8tet i v=E5rsemesteret 2003. Forel=F8pig=20
+m=F8teplan for resten av v=E5rsemesteret ser slik ut:
+
+   Torsdag 22. mai 2003, kl 19.00 - tema ikke fastsatt
+
+Vi satser p=E5 at vi fortseter med m=F8ter *siste torsdag i m=E5neden* ogs=
+=E5
+til h=F8sten. Dersom ikke annet blir annonsert, vil m=F8tene fortsatt
+foreg=E5 p=E5 h=F8yteknologisenteret.
+
+Se ogs=E5 BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Sp=F8rsm=E5l kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+--=20
+Peter N. M. Hansteen, member of the first RFC 1149 implementation team
+http://www.blug.linux.no/rfc1149/	http://www.datadok.no/
+
+

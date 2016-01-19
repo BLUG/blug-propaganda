@@ -1,0 +1,246 @@
+From owner-blug-outgoing@engen.priv.no  Wed Mar 26 10:01:30 2003
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 0496A30AD2F; Wed, 26 Mar 2003 10:01:30 +0100 (CET)
+Delivered-To: blug@engen.priv.no
+Received: from bgnnt9.starshipping.com (unknown [62.70.77.11])
+	by vegard.engen.priv.no (Postfix) with ESMTP id E384D30A82C
+	for <blug@blug.linux.no>; Wed, 26 Mar 2003 10:01:28 +0100 (CET)
+Received: from [192.190.193.184] ([192.190.193.184])
+          by bgnnotes1.star (Lotus Domino Release 5.0.11)
+          with ESMTP id 2003032610011952:7885 ;
+          Wed, 26 Mar 2003 10:01:19 +0100 
+Subject: PRESSEMELDING: PHP - avansert internettprogrammering - eit
+	foredrag om PHP av Stig Bakken
+From: Jakob Breivik Grimstveit <jakob@grimstveit.net>
+To: Jakob Breivik Grimstveit <jakob@grimstveit.net>
+Cc: blug@blug.linux.no
+Organization: Bitwise Computing
+Message-Id: <1048669279.3178.17.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Ximian Evolution 1.2.2 
+Date: 26 Mar 2003 10:01:19 +0100
+X-MIMETrack: Itemize by SMTP Server on BGNNOTES1/BGN/StarShipping(Release 5.0.11  |July
+ 24, 2002) at 03/26/2003 10:01:19 AM,
+	Serialize by Router on BGNNOTES4/BGN/StarShipping(Release 5.0.11  |July 24, 2002) at
+ 03/26/2003 09:46:56 AM
+Content-Type: multipart/mixed; boundary="=-c/f7Xqdi7Y8xOrJjcgzA"
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+Status: RO
+Content-Length: 11687
+Lines: 210
+
+
+--=-c/f7Xqdi7Y8xOrJjcgzA
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-15
+
+PRESSEMELDING: PHP - avansert internettprogrammering - eit foredrag om
+PHP av Stig Bakken=20
+=20
+Bergen, 23. mars 2003 -- =20
+
+N=E5r: Torsdag 27. mars 2003 klokken 19.00
+Kor: Rom 2142, H=F8yteknologisenteret, Thorm=F8hlens gate 55, Bergen
+
+I internett sine spede dagar midt p=E5 nittitalet var konseptet
+webutvikling einstydande med enkle heimesider utan nokon form for
+interaktivitet, med hovudsakeleg kun ei side med kontaktinformasjon til
+tilfeldig bes=F8kande. I dag har b=E5de skomakaren, fris=F8ren og sagbruket
+sine eigne nettsider med brukarprofilar, diskusjonsgrupper og
+kundesider, der brukarane kan delta aktivt i opplevelsen. Det har vorte
+nytta mange ulike teknikkar for =E5 produsere interaktivitet p=E5 internett=
+,
+men dei fleste har vist seg =E5 vere vanskelege =E5 utvikle eller
+administrere. Manglande sikkerhete p=E5 transaksjonane over nettet har
+ogs=E5 ofte vore eit problem. Det er her programmeringsspr=E5ket kalla PHP =
+-
+=ABPHP: Hypertext Preprocessor=BB kjem og reddar dagen, og kanskje
+arbeidsplassen?=20
+=20
+Programmeringsspr=E5ket PHP s=E5g dagens ljos i 1995, men har sidan den tid
+endra fokus, virkem=E5te og modenhet betrakteleg. Fr=E5 =E5 vere eit verkty
+for heimebrukarar med sm=E5 og enkle krav, har PHP utvikla seg til eit
+fullblods portabelt programmeringsspr=E5k for internett, intranett og
+generell systemadministrasjon. Spr=E5ket er b=E5de enkelt, lesbart og sv=E6=
+rt
+moro =E5 jobbe med. Objektorientering, XML, LDAP og kodebiblioteket PEAR
+er fire viktige stikkord for kor PHP kjem til =E5 utmerke seg i tida som
+kjem.
+=20
+Har du vurdert =E5 programmere nettsider, men ikkje veit heilt kor du skal
+starte? Slit du med h=E5plaust tungvinne nettl=F8ysingar og ynsker =E5 utvi=
+kle
+dine eigne, privat eller i bedrifta di? Har du kjedelege nettsider, og
+ynskjer =E5 vite kva som skal til for =E5 f=E5 brukarane til =E5 vende atte=
+nde?
+Er du nysgjerrig p=E5 kva vegvalg som er gjort eller kjem til =E5 bli gjort
+i PHP i =E5ra som kjem? Dette er h=F8vet til =E5 finne det ut! Stig Bakken,
+ein av utviklarane av PHP som har vore med fr=E5 starten av kjem til
+Bergen for =E5 halde eit foredrag om PHP, notid og framtid.=20
+=20
+Hvis du har lyst til =E5 vite meir om PHP, Linux, BSD eller fri
+programvare generelt, kan du m=F8te p=E5 den m=E5nadelege samankomsten til
+BLUG, torsdag 27. mars klokka 19.00. Adresse for dagen er rom 2142,
+H=F8yteknologisenteret, Thorm=F8hlens gate 55, Bergen.
+
+Midlertidig saksliste
+1. PHP - historikk og organisering
+2. Bruk av PEAR
+3. Feilh=E5ndtering med PHP og PEAR
+4. Utvikling av PEAR-pakker
+5. PHP og yting
+6. PHP versjon 5
+7. Sp=F8rsm=E5l / tips og triks
+
+Det vil ogs=E5 vere gode h=F8ve til =E5 stille sp=F8rsm=E5l om dette og and=
+re ting
+under og etter foredraget.
+=20
+Foredraget er gjort mogleg med finansiell st=F8nad fr=E5 Star Shipping AS.=20
+=20
+Om BLUG: Bergen (BSD and) Linux User Group har ei historie som g=E5r eit
+stykke tilbake p=E5 nittitallet, d=E5 det blei sett i gang ei epostliste fo=
+r
+linux-interesserte p=E5 Institutt for informatikk ved Universitetet i
+Bergen.  Ryktet spreidde seg via nyhetsgruppa no.linux, og det tok ikkje
+s=E6rleg lang tid f=F8r linuxbrukarar utanfor universitetet hadde meldt seg=
+.
+M=F8teverksemd har foreg=E5tt i tre separate perioder, den f=F8rste trulegv=
+is
+i 1996 eller 1997, s=E5 ein periode v=E5r/sommer 1998. Sidan v=E5ren 2000 h=
+ar
+det vorte arrangert plenumsm=F8ter siste torsdag i m=E5naden.  BLUG p=E5 we=
+b:
+http://www.blug.linux.no/=20
+=20
+Om Stig Bakken: Stig Bakken arbeider ved Fast Search & Transfer i
+Trondheim. Han har vore ein viktig bidragsytar til utviklinga av
+programmeringsspr=E5ket PHP sidan 1996, og har ogs=E5 vore medlem i PHP
+Group sidan denne gruppa vart oppretta. Bakken har bidrege til mange
+delar av PHP, blant anna p=E5 Oracle (ODBC), handtering av XML,
+rammeverket for dokumentasjon, utviklinga p=E5 UNIX og i kodebiblioteket
+PEAR. Han reiser ofte rundt og held foredrag og kurs, og har bidrege til
+=E5 gjere teknologien bak dynamiske nettsider tilgjengeleg for alle. PHP
+er installert p=E5 n=E6rare 11 millionar tenarar rundt om i heile verda,
+noko som betrakteleg har p=E5verka korleis internett er utforma i dag.=20
+=20
+Om Star Shipping AS: Om Star Shipping: Star Shipping AS er eit
+internasjonalt shippingselskap med dotterselskap bl.a. i Atlanta,
+Savannah, Mobile, San Fransisco, Vancouver B.C., Tokyo, Singapore,
+Sydney, Rio de Janeiro og G=F8teborg. Star Shippings fl=E5te best=E5r av ca=
+.
+75 moderne open hatch og konvensjonelle bulkskip i 15.000 - 50.000
+dwt-klassa, i verdensomspennende kontrakt- og lausfart.=20
+=20
+Kontakt:
+
+BLUG: Peter N. M. Hansteen, peter@bgnett.no, telefon 55 32 08 02
+(arbeid) 98 07 12 63 (mobil)=20
+
+Star Shipping AS: System Integrator Jakob Breivik Grimstveit,
+jakob@grimstveit.net, telefon 55 23 96 00 (arbeid), 48 29 81 52 (mobil)=20
+
+
+--=20
+Jakob Breivik Grimstveit, jakob@grimstveit.net, www.grimstveit.net/jakob
+Morvikbotn 341, 5122 Morvik. Home#55195667, cell#48298152, work#55239715
+
+The difficult we do today; the impossible takes a little longer.
+
+--=-c/f7Xqdi7Y8xOrJjcgzA
+Content-Description: Pressemelding, tekstvedlegg
+Content-Disposition: attachment; filename=php_pressemelding.txt
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: base64
+
+UFJFU1NFTUVMRElORzogUEhQIC0gYXZhbnNlcnQgaW50ZXJuZXR0cHJvZ3JhbW1lcmluZyAtIGVp
+dCBmb3JlZHJhZyBvbSBQSFAgYXYgU3RpZyBCYWtrZW4gDQogDQpCZXJnZW4sIDIzLiBtYXJzIDIw
+MDMgLS0gIA0KDQpO5XI6IFRvcnNkYWcgMjcuIG1hcnMgMjAwMyBrbG9ra2VuIDE5LjAwDQpLb3I6
+IFJvbSAyMTQyLCBI+Hl0ZWtub2xvZ2lzZW50ZXJldCwgVGhvcm34aGxlbnMgZ2F0ZSA1NSwgQmVy
+Z2VuDQoNCkkgaW50ZXJuZXR0IHNpbmUgc3BlZGUgZGFnYXIgbWlkdCBw5SBuaXR0aXRhbGV0IHZh
+ciBrb25zZXB0ZXQgd2VidXR2aWtsaW5nIGVpbnN0eWRhbmRlIG1lZCBlbmtsZSBoZWltZXNpZGVy
+IHV0YW4gbm9rb24gZm9ybSBmb3IgaW50ZXJha3Rpdml0ZXQsIG1lZCBob3Z1ZHNha2VsZWcga3Vu
+IGVpIHNpZGUgbWVkIGtvbnRha3RpbmZvcm1hc2pvbiB0aWwgdGlsZmVsZGlnIGJlc/hrYW5kZS4g
+SSBkYWcgaGFyIGLlZGUgc2tvbWFrYXJlbiwgZnJpc/hyZW4gb2cgc2FnYnJ1a2V0IHNpbmUgZWln
+bmUgbmV0dHNpZGVyIG1lZCBicnVrYXJwcm9maWxhciwgZGlza3Vzam9uc2dydXBwZXIgb2cga3Vu
+ZGVzaWRlciwgZGVyIGJydWthcmFuZSBrYW4gZGVsdGEgYWt0aXZ0IGkgb3BwbGV2ZWxzZW4uIERl
+dCBoYXIgdm9ydGUgbnl0dGEgbWFuZ2UgdWxpa2UgdGVrbmlra2FyIGZvciDlIHByb2R1c2VyZSBp
+bnRlcmFrdGl2aXRldCBw5SBpbnRlcm5ldHQsIG1lbiBkZWkgZmxlc3RlIGhhciB2aXN0IHNlZyDl
+IHZlcmUgdmFuc2tlbGVnZSDlIHV0dmlrbGUgZWxsZXIgYWRtaW5pc3RyZXJlLiBNYW5nbGFuZGUg
+c2lra2VyaGV0ZSBw5SB0cmFuc2Frc2pvbmFuZSBvdmVyIG5ldHRldCBoYXIgb2dz5SBvZnRlIHZv
+cmUgZWl0IHByb2JsZW0uIERldCBlciBoZXIgcHJvZ3JhbW1lcmluZ3NzcHLla2V0IGthbGxhIFBI
+UCAtIKtQSFA6IEh5cGVydGV4dCBQcmVwcm9jZXNzb3K7IGtqZW0gb2cgcmVkZGFyIGRhZ2VuLCBv
+ZyBrYW5za2plIGFyYmVpZHNwbGFzc2VuPyANCiANClByb2dyYW1tZXJpbmdzc3By5WtldCBQSFAg
+c+VnIGRhZ2VucyBsam9zIGkgMTk5NSwgbWVuIGhhciBzaWRhbiBkZW4gdGlkIGVuZHJhIGZva3Vz
+LCB2aXJrZW3ldGUgb2cgbW9kZW5oZXQgYmV0cmFrdGVsZWcuIEZy5SDlIHZlcmUgZWl0IHZlcmt0
+eSBmb3IgaGVpbWVicnVrYXJhciBtZWQgc23lIG9nIGVua2xlIGtyYXYsIGhhciBQSFAgdXR2aWts
+YSBzZWcgdGlsIGVpdCBmdWxsYmxvZHMgcG9ydGFiZWx0IHByb2dyYW1tZXJpbmdzc3By5WsgZm9y
+IGludGVybmV0dCwgaW50cmFuZXR0IG9nIGdlbmVyZWxsIHN5c3RlbWFkbWluaXN0cmFzam9uLiBT
+cHLla2V0IGVyIGLlZGUgZW5rZWx0LCBsZXNiYXJ0IG9nIHN25nJ0IG1vcm8g5SBqb2JiZSBtZWQu
+IE9iamVrdG9yaWVudGVyaW5nLCBYTUwsIExEQVAgb2cga29kZWJpYmxpb3Rla2V0IFBFQVIgZXIg
+ZmlyZSB2aWt0aWdlIHN0aWtrb3JkIGZvciBrb3IgUEhQIGtqZW0gdGlsIOUgdXRtZXJrZSBzZWcg
+aSB0aWRhIHNvbSBramVtLg0KIA0KSGFyIGR1IHZ1cmRlcnQg5SBwcm9ncmFtbWVyZSBuZXR0c2lk
+ZXIsIG1lbiBpa2tqZSB2ZWl0IGhlaWx0IGtvciBkdSBza2FsIHN0YXJ0ZT8gU2xpdCBkdSBtZWQg
+aOVwbGF1c3QgdHVuZ3Zpbm5lIG5ldHRs+HlzaW5nYXIgb2cgeW5za2VyIOUgdXR2aWtsZSBkaW5l
+IGVpZ25lLCBwcml2YXQgZWxsZXIgaSBiZWRyaWZ0YSBkaT8gSGFyIGR1IGtqZWRlbGVnZSBuZXR0
+c2lkZXIsIG9nIHluc2tqZXIg5SB2aXRlIGt2YSBzb20gc2thbCB0aWwgZm9yIOUgZuUgYnJ1a2Fy
+YW5lIHRpbCDlIHZlbmRlIGF0dGVuZGU/IEVyIGR1IG55c2dqZXJyaWcgcOUga3ZhIHZlZ3ZhbGcg
+c29tIGVyIGdqb3J0IGVsbGVyIGtqZW0gdGlsIOUgYmxpIGdqb3J0IGkgUEhQIGkg5XJhIHNvbSBr
+amVtPyBEZXR0ZSBlciBo+HZldCB0aWwg5SBmaW5uZSBkZXQgdXQhIFN0aWcgQmFra2VuLCBlaW4g
+YXYgdXR2aWtsYXJhbmUgYXYgUEhQIHNvbSBoYXIgdm9yZSBtZWQgZnLlIHN0YXJ0ZW4gYXYga2pl
+bSB0aWwgQmVyZ2VuIGZvciDlIGhhbGRlIGVpdCBmb3JlZHJhZyBvbSBQSFAsIG5vdGlkIG9nIGZy
+YW10aWQuIA0KIA0KSHZpcyBkdSBoYXIgbHlzdCB0aWwg5SB2aXRlIG1laXIgb20gUEhQLCBMaW51
+eCwgQlNEIGVsbGVyIGZyaSBwcm9ncmFtdmFyZSBnZW5lcmVsdCwga2FuIGR1IG34dGUgcOUgZGVu
+IG3lbmFkZWxlZ2Ugc2FtYW5rb21zdGVuIHRpbCBCTFVHLCB0b3JzZGFnIDI3LiBtYXJzIGtsb2tr
+YSAxOS4wMC4gQWRyZXNzZSBmb3IgZGFnZW4gZXIgcm9tIDIxNDIsIEj4eXRla25vbG9naXNlbnRl
+cmV0LCBUaG9ybfhobGVucyBnYXRlIDU1LCBCZXJnZW4uDQoNCk1pZGxlcnRpZGlnIHNha3NsaXN0
+ZQ0KMS4gUEhQIC0gaGlzdG9yaWtrIG9nIG9yZ2FuaXNlcmluZw0KMi4gQnJ1ayBhdiBQRUFSDQoz
+LiBGZWlsaOVuZHRlcmluZyBtZWQgUEhQIG9nIFBFQVINCjQuIFV0dmlrbGluZyBhdiBQRUFSLXBh
+a2tlcg0KNS4gUEhQIG9nIHl0aW5nDQo2LiBQSFAgdmVyc2pvbiA1DQo3LiBTcPhyc23lbCAvIHRp
+cHMgb2cgdHJpa3MNCg0KRGV0IHZpbCBvZ3PlIHZlcmUgZ29kZSBo+HZlIHRpbCDlIHN0aWxsZSBz
+cPhyc23lbCBvbSBkZXR0ZSBvZyBhbmRyZSB0aW5nIHVuZGVyIG9nIGV0dGVyIGZvcmVkcmFnZXQu
+DQogDQpGb3JlZHJhZ2V0IGVyIGdqb3J0IG1vZ2xlZyBtZWQgZmluYW5zaWVsbCBzdPhuYWQgZnLl
+IFN0YXIgU2hpcHBpbmcgQVMuIA0KIA0KT20gQkxVRzogQmVyZ2VuIChCU0QgYW5kKSBMaW51eCBV
+c2VyIEdyb3VwIGhhciBlaSBoaXN0b3JpZSBzb20gZ+VyIGVpdCBzdHlra2UgdGlsYmFrZSBw5SBu
+aXR0aXRhbGxldCwgZOUgZGV0IGJsZWkgc2V0dCBpIGdhbmcgZWkgZXBvc3RsaXN0ZSBmb3IgbGlu
+dXgtaW50ZXJlc3NlcnRlIHDlIEluc3RpdHV0dCBmb3IgaW5mb3JtYXRpa2sgdmVkIFVuaXZlcnNp
+dGV0ZXQgaSBCZXJnZW4uICBSeWt0ZXQgc3ByZWlkZGUgc2VnIHZpYSBueWhldHNncnVwcGEgbm8u
+bGludXgsIG9nIGRldCB0b2sgaWtramUgc+ZybGVnIGxhbmcgdGlkIGb4ciBsaW51eGJydWthcmFy
+IHV0YW5mb3IgdW5pdmVyc2l0ZXRldCBoYWRkZSBtZWxkdCBzZWcuIE34dGV2ZXJrc2VtZCBoYXIg
+Zm9yZWfldHQgaSB0cmUgc2VwYXJhdGUgcGVyaW9kZXIsIGRlbiBm+HJzdGUgdHJ1bGVndmlzIGkg
+MTk5NiBlbGxlciAxOTk3LCBz5SBlaW4gcGVyaW9kZSB25XIvc29tbWVyIDE5OTguIFNpZGFuIHbl
+cmVuIDIwMDAgaGFyIGRldCB2b3J0ZSBhcnJhbmdlcnQgcGxlbnVtc234dGVyIHNpc3RlIHRvcnNk
+YWcgaSBt5W5hZGVuLiAgQkxVRyBw5SB3ZWI6IGh0dHA6Ly93d3cuYmx1Zy5saW51eC5uby8gDQog
+DQpPbSBTdGlnIEJha2tlbjogU3RpZyBCYWtrZW4gYXJiZWlkZXIgdmVkIEZhc3QgU2VhcmNoICYg
+VHJhbnNmZXIgaSBUcm9uZGhlaW0uIEhhbiBoYXIgdm9yZSBlaW4gdmlrdGlnIGJpZHJhZ3N5dGFy
+IHRpbCB1dHZpa2xpbmdhIGF2IHByb2dyYW1tZXJpbmdzc3By5WtldCBQSFAgc2lkYW4gMTk5Niwg
+b2cgaGFyIG9nc+Ugdm9yZSBtZWRsZW0gaSBQSFAgR3JvdXAgc2lkYW4gZGVubmUgZ3J1cHBhIHZh
+cnQgb3BwcmV0dGEuIEJha2tlbiBoYXIgYmlkcmVnZSB0aWwgbWFuZ2UgZGVsYXIgYXYgUEhQLCBi
+bGFudCBhbm5hIHDlIE9yYWNsZSAoT0RCQyksIGhhbmR0ZXJpbmcgYXYgWE1MLCByYW1tZXZlcmtl
+dCBmb3IgZG9rdW1lbnRhc2pvbiwgdXR2aWtsaW5nYSBw5SBVTklYIG9nIGkga29kZWJpYmxpb3Rl
+a2V0IFBFQVIuIEhhbiByZWlzZXIgb2Z0ZSBydW5kdCBvZyBoZWxkIGZvcmVkcmFnIG9nIGt1cnMs
+IG9nIGhhciBiaWRyZWdlIHRpbCDlIGdqZXJlIHRla25vbG9naWVuIGJhayBkeW5hbWlza2UgbmV0
+dHNpZGVyIHRpbGdqZW5nZWxlZyBmb3IgYWxsZS4gUEhQIGVyIGluc3RhbGxlcnQgcOUgbuZyYXJl
+IDExIG1pbGxpb25hciB0ZW5hcmFyIHJ1bmR0IG9tIGkgaGVpbGUgdmVyZGEsIG5va28gc29tIGJl
+dHJha3RlbGVnIGhhciBw5XZlcmthIGtvcmxlaXMgaW50ZXJuZXR0IGVyIHV0Zm9ybWEgaSBkYWcu
+IA0KIA0KT20gU3RhciBTaGlwcGluZyBBUzogT20gU3RhciBTaGlwcGluZzogU3RhciBTaGlwcGlu
+ZyBBUyBlciBlaXQgaW50ZXJuYXNqb25hbHQgc2hpcHBpbmdzZWxza2FwIG1lZCBkb3R0ZXJzZWxz
+a2FwIGJsLmEuIGkgQXRsYW50YSwgU2F2YW5uYWgsIE1vYmlsZSwgU2FuIEZyYW5zaXNjbywgVmFu
+Y291dmVyIEIuQy4sIFRva3lvLCBTaW5nYXBvcmUsIFN5ZG5leSwgUmlvIGRlIEphbmVpcm8gb2cg
+R/h0ZWJvcmcuIFN0YXIgU2hpcHBpbmdzIGZs5XRlIGJlc3TlciBhdiBjYS4gNzUgbW9kZXJuZSBv
+cGVuIGhhdGNoIG9nIGtvbnZlbnNqb25lbGxlIGJ1bGtza2lwIGkgMTUuMDAwIC0gNTAuMDAwIGR3
+dC1rbGFzc2EsIGkgdmVyZGVuc29tc3Blbm5lbmRlIGtvbnRyYWt0LSBvZyBsYXVzZmFydC4gDQog
+DQpLb250YWt0Og0KDQpCTFVHOiBQZXRlciBOLiBNLiBIYW5zdGVlbiwgcGV0ZXJAYmduZXR0Lm5v
+LCB0ZWxlZm9uIDU1IDMyIDA4IDAyIChhcmJlaWQpIDk4IDA3IDEyIDYzIChtb2JpbCkgDQoNClN0
+YXIgU2hpcHBpbmcgQVM6IFN5c3RlbSBJbnRlZ3JhdG9yIEpha29iIEJyZWl2aWsgR3JpbXN0dmVp
+dCwgamFrb2JAZ3JpbXN0dmVpdC5uZXQsIHRlbGVmb24gNTUgMjMgOTYgMDAgKGFyYmVpZCksIDQ4
+IDI5IDgxIDUyIChtb2JpbCkgDQoNCg==
+
+--=-c/f7Xqdi7Y8xOrJjcgzA--
+
+
+

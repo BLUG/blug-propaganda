@@ -1,0 +1,109 @@
+From owner-blug@blug.linux.no Tue May  7 21:34:53 2002
+Envelope-to: peter@datadok.no
+Received: from vegard.engen.priv.no ([193.69.204.235]) by
+	delilah.datadok.no with esmtp (Exim 3.12 #1 (Debian)) id 175Ajd-0004vn-00
+	for <peter@datadok.no>; Tue, 07 May 2002 21:34:53 +0200
+Received: by vegard.engen.priv.no (Postfix) id DA6B330A7DF; Tue,  7 May
+	2002 21:39:53 +0200 (CEST)
+Delivered-To: blug-outgoing@engen.priv.no
+Received: by vegard.engen.priv.no (Postfix, from userid 30) id B100E30A829;
+	Tue,  7 May 2002 21:39:53 +0200 (CEST)
+Delivered-To: blug@engen.priv.no
+Received: from bryggen.bgnett.no (bryggen.bgnett.no [194.54.96.130]) by
+	vegard.engen.priv.no (Postfix) with ESMTP id 6DD4F30A7DF for
+	<blug@blug.linux.no>; Tue,  7 May 2002 21:39:52 +0200 (CEST)
+Received: from tosh.bgnett.no ([194.54.107.19]) by bryggen.bgnett.no
+	(8.8.8/8.8.5/brage2.1) with ESMTP id TAA07969 for <blug@blug.linux.no>;
+	Tue, 7 May 2002 19:40:32 GMT
+Newsgroups: no.it.os.unix.linux.diverse,no.it.diverse,no.it.os.unix.diverse
+Subject: BLUG 30. mai 2002: DocBook 
+Original-Sender: peter@bgnett.no
+Cc: blug@blug.linux.no
+From: "Peter N. M. Hansteen" <peter@bgnett.no>
+Date: 07 May 2002 21:32:42 +0200
+Message-ID: <87it5z4uud.fsf@bgnett.no>
+Organization: Only to a certain degree
+X-Newsreader: Gnus v5.7/Emacs 20.7
+Posted-To: no.it.os.unix.linux.diverse,no.it.diverse,no.it.os.unix.diverse
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+Mime-Version: 1.0
+Status: RO
+Content-Length: 2700
+Lines: 70
+
+The following message is a courtesy copy of an article
+that has been posted to no.it.os.unix.linux.diverse,no.it.diverse,no.it.os.unix.diverse as well.
+
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 30. mai 2002, kl 19.00 
+   Stort auditorium, Høyteknologisenteret,
+   Thormøhlens gate 55, Bergen
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+~ Linux og DocBook SGML i praksis - Peter Hansteen forklarer hva
+  DocBook er, og forteller om praktiske erfaringer med å skrive
+  plattformuavhengig programvaredokumentasjon med DocBook.
+  
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Høyteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten 
+	videre slipper inn uten kontakter på innsiden.  
+	Vi vil gjøre vårt beste for å ha folk i døren for 
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det siste møtet i vårsemesteret 2002. Vi legger opp til at
+det også til høsten vil bli møter *siste torsdag i måneden*. Foreløpig
+møteplan for høstsemesteret ser slik ut:
+
+   Torsdag 29. august 2002, kl 19.00 
+   Torsdag 26. september 2002, kl 19.00 
+   Torsdag 31. oktober 2002, kl 19.00 
+   Torsdag 28. november 2002, kl 19.00 
+
+   - men husk, både i sommer og høst *kan* vi finne på ting :)
+
+Dersom ikke annet blir annonsert, vil møtene fortsatt foregå på
+høyteknologisenteret. Blant de mulige emnene som har vært nevnt i
+elektroniske og andre diskusjoner er:
+
+* linux og trådløse nettverk, radiolink osv
+
+* installfest (post-install-fest (ikke nødvendigvis nachspiel))
+
+* linux på lomme-pc-er, anskaffe samme type utstyr for å dele
+  erfaringer
+
+* forskjellige tilnærminger til "doing unusual things with freenixes
+  for fun and occasional profit"
+
+Vi benytter oss igjen av muligheten til å minne om BLUGs hjemmeside,
+som langsomt vokser innholds- og utformingsmessig på
+url:http://www.blug.linux.no.  Der finner du løpende oppdatert info om
+brukergruppen og annet linux-relatert stoff. En annen viktig kanal for
+kommunikasjon med og mellom BLUG-medlemmer er epostlisten,
+mailto:blug@blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+Hjelp til bruk av blug-listen fås ved å sende melding til
+mailto:majordomo@blug.linux.no med teksten
+
+help
+
+som meldingstekst (ikke emne), påmelding ved melding til
+mailto:majordomo@blug.linux.no med
+
+subscribe
+
+som eneste tekst.
+
+
