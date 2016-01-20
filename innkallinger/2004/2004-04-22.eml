@@ -1,0 +1,105 @@
+From owner-blug-outgoing@engen.priv.no  Wed Mar 31 14:58:07 2004
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id A112230B023
+	for <blug-outgoing@engen.priv.no>; Wed, 31 Mar 2004 14:58:06 +0200 (CEST)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28117-02 for <blug-outgoing@engen.priv.no>;
+	Wed, 31 Mar 2004 14:57:44 +0200 (CEST)
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 38FB930B029; Wed, 31 Mar 2004 14:57:44 +0200 (CEST)
+Delivered-To: blug@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 6594E30B023
+	for <blug@engen.priv.no>; Wed, 31 Mar 2004 14:57:43 +0200 (CEST)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 27832-05 for <blug@engen.priv.no>;
+	Wed, 31 Mar 2004 14:57:21 +0200 (CEST)
+Received: from vs2.bgnett.no (vs02.bgnett.no [194.54.96.190])
+	by vegard.engen.priv.no (Postfix) with ESMTP id C7C4230B01C
+	for <blug@blug.linux.no>; Wed, 31 Mar 2004 14:57:20 +0200 (CEST)
+Received: from tosh.datadok.no.bgnett.no (tosh.datadok.no [194.54.103.99])
+	by vs2.bgnett.no (8.12.9p2/8.12.9) with ESMTP id i2VCvf7N096930
+	for <blug@blug.linux.no>; Wed, 31 Mar 2004 14:57:42 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+To: blug@blug.linux.no
+Subject: BLUG, Bergen 22. april: Automatisert kvalitetssikring med FreeBSDs Tinderbox
+From: peter@bgnett.no (Peter N. M. Hansteen)
+Date: 31 Mar 2004 14:56:20 +0200
+Message-ID: <87isgldvkb.fsf@tosh.datadok.no>
+User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.3
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-bgnett.no-virusscanner: Found to be clean
+X-Envelope-To: blug@blug.linux.no
+X-Virus-Scanned: by amavisd-new-20030616-p7 (Debian) at engen.priv.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+X-Virus-Scanned: by amavisd-new-20030616-p7 (Debian) at engen.priv.no
+Status: RO
+Content-Length: 2249
+Lines: 52
+
+Bergen (BSD and) Linux User Group fortsetter m=F8teserien "Last Thursday"
+
+   Torsdag 22. april 2004, kl 19.00 ** MERK DATO **
+   Stort auditorium, H=F8yteknologisenteret,
+   Thorm=F8hlens gate 55, Bergen[1]
+
+M=F8tet er gratis og =E5pent for alle interesserte, med programmet:
+
+ ~ Automatisert kvalitetssikring med FreeBSDs Tinderbox -=20
+   ved Dag-Erling Sm=F8rgrav
+
+   I store programvareprosjekter kan det v=E6re vanskelig =E5 sikre at
+   koden holder fastsatte kvalitetsm=E5l. Dag-Erling Sm=F8rgrav forteller
+   om FreeBSDs tinderbox, ideene som ligger bak, hvordan systemet er
+   bygget opp, hvordan systemet har blitt endret og utbygd som f=F8lge
+   av praktisk erfaring og hvordan systemet fungerer i dag.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av m=F8tet vil v=E6re fullf=F8rt ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fag=F8l og annet sosialt.
+
+MERK:	H=F8yteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gj=F8r at man ikke uten=20
+	videre slipper inn uten kontakter p=E5 innsiden.=20=20
+	Vi vil gj=F8re v=E5rt beste for =E5 ha folk i d=F8ren for=20
+	=E5 slippe inn fra ca 18.45 til vel 19.00.
+
+M=F8teplanen for resten av v=E5ren 2004 ser slik ut:
+
+Torsdag 27. mai 2004: =C5pne vevstandarder, ved Wilhelm Joys Andersen
+
+For h=F8sten 2004 er planen forel=F8pig slik:
+
+Torsdag 26. august 2004: Tema ikke fastsatt
+Torsdag 30. september 2004: Tema ikke fastsatt
+Torsdag 28. oktober 2004: Tema ikke fastsatt
+en l=F8rdag i november 2004: Installfest
+Torsdag 25. november 2004: Tema ikke fastsatt
+
+Vi fortsetter alts=E5 med m=F8ter *siste torsdag i m=E5neden*. Dersom ikke
+annet blir annonsert, vil m=F8tene fortsatt foreg=E5 p=E5
+h=F8yteknologisenteret.
+
+Se ogs=E5 BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Sp=F8rsm=E5l kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.finn.no/finn/map?utmx=3D-31761&utmy=3D6733037&=
+title=3DTHORM%D8HLENS+GATE+55%2C+5008+Bergen
+
+[2] kartreferanse http://www.finn.no/finn/map?utmx=3D-31711.0&utmy=3D673467=
+1.0&title=3DVETRLIDSALLMENNINGEN+15+5014+Bergen - der vi okkuperer bakromme=
+t.
+
+
+

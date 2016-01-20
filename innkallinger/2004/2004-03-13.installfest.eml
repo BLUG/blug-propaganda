@@ -1,0 +1,104 @@
+From owner-blug-outgoing@engen.priv.no  Thu Mar  4 12:37:50 2004
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 87A6930ADFD
+	for <blug-outgoing@engen.priv.no>; Thu,  4 Mar 2004 12:37:49 +0100 (CET)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 26761-09 for <blug-outgoing@engen.priv.no>;
+	Thu, 4 Mar 2004 12:37:49 +0100 (CET)
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 2F75F30AE97; Thu,  4 Mar 2004 12:37:49 +0100 (CET)
+Delivered-To: blug@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 5DB5C30AE96
+	for <blug@engen.priv.no>; Thu,  4 Mar 2004 12:37:48 +0100 (CET)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 26877-08 for <blug@engen.priv.no>;
+	Thu, 4 Mar 2004 12:37:48 +0100 (CET)
+Received: from vs.bgnett.no (unknown [194.54.96.159])
+	by vegard.engen.priv.no (Postfix) with ESMTP id E744430ADFD
+	for <blug@blug.linux.no>; Thu,  4 Mar 2004 12:37:47 +0100 (CET)
+Received: (from root@localhost)
+	by vs.bgnett.no (8.12.8p1/8.12.8) id i24Bbsjd031023
+	for blug@blug.linux.no; Thu, 4 Mar 2004 12:37:54 +0100 (CET)
+	(envelope-from peter@bgnett.no)
+Received: from tosh.datadok.no.bgnett.no (peter@tosh.datadok.no [194.54.103.99])
+	by vs.bgnett.no (8.12.8p1/8.12.8av) with ESMTP id i24BbksM030909
+	for <blug@blug.linux.no>; Thu, 4 Mar 2004 12:37:48 +0100 (CET)
+	(envelope-from peter@bgnett.no)
+To: blug@blug.linux.no
+Subject: INSTALLFEST: Bergen, 13. mars 2002 kl 12-21 
+From: peter@bgnett.no (Peter N. M. Hansteen)
+Date: 04 Mar 2004 12:34:46 +0100
+Message-ID: <87fzco6e21.fsf@tosh.datadok.no>
+User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new-20030616-p7 (Debian) at engen.priv.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+X-Virus-Scanned: by amavisd-new-20030616-p7 (Debian) at engen.priv.no
+Status: RO
+Content-Length: 2137
+Lines: 48
+
+INSTALLFEST i Bergen!
+
+Ja, det er den tiden p=E5 =E5ret igjen! L=F8rdag 13. mars 2004 holder BLUG i
+samarbeid med Matematisk Institutt ved Universitet i Bergen v=E5rens (og
+=E5rets f=F8rste)
+
+	INSTALLFEST
+
+i Matematisk Institutts Auditorium PI, i Autog=E5rden, Johannes Bruns
+gate 12. Tid: l=F8rdag 13. mars, fra kl 12 til 21.
+
+Vi vil ha folk i d=F8ren ca 12 til 14. De som kommer etter det, b=F8r
+pr=F8ve =E5 banke p=E5 d=F8ren f=F8r de eventuelt pr=F8ver ett av mobilnumr=
+ene som
+vi sl=E5r opp p=E5 synlig sted.
+
+"INSTALLFEST" - hva er det?
+
+F=F8rst og fremst det som ligger i ordet - et arrangement der du kan
+komme og f=E5 hjelp til =E5 installere Linux eller annen fri programvare.
+Det kan selvf=F8lgelig v=E6re andre ting du vil ha hjelp til, kanskje du
+vil tilby hjelp til andre, eller kanskje du ser etter en anledning til
+=E5 sosialisere med andre Linux- eller BSD-interesserte. Se for eksempel
+http://www.installfest.org/tiki-index.php?page=3DInstallFest og
+http://www.faqs.org/docs/jargon/I/installfest.html
+
+
+Hvis du trenger hjelp til =E5 finne frem, finnes det kart og muligheter
+for kj=F8reanvisninger hos b=E5de Gule Sider og Finn:
+
+Gule Sider:
+http://www.gulesider.no/gsi/map.do?mode=3D&spraak=3D1&size=3D1&st=3Ds&stree=
+t=3DJohannes+Bruns+gate&house=3D12&ps=3DBergen&place=3D&municipality=3D&x=
+=3D43&y=3D5
+
+Finn:
+http://www.finn.no/finn/searchmap?utmx=3D-31712&utmy=3D6733441&title=3DJOHA=
+NNES+BRUNS+GATE+12%2C+5008+Bergen
+
+Speil av popul=E6re distribusjoner vil v=E6re tilgjengelige, og med=20
+Universitetets nettverksforbindelse burde det meste v=E6re innen=20
+rekkevidde dersom vi skulle mangle noe.
+
+Det kan gjerne v=E6re en fordel =E5 sende en p=E5melding og en beskrivelse
+av hva *du* =F8nsker =E5 f=E5 gjort og omtrent n=E5r du kommer p=E5
+installfesten, til blug-listen, mailto:blug@blug.linux.no, men du
+er velkommen uten forh=E5ndsp=E5melding ogs=E5!
+
+Det kan forresten v=E6re en god ide =E5 abonnere p=E5 blug-listen hvis du er
+linux-bruker i Bergensomr=E5det. Innmelding til listen skjer ved =E5 sende
+en mail til majordomo@blug.linux.no med tomt Subject -felt og med
+"subscribe blug" i selve meldingen.
+
+
+

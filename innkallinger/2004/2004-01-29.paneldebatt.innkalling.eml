@@ -1,0 +1,116 @@
+From owner-blug-outgoing@engen.priv.no  Fri Jan 23 14:44:31 2004
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 18CF430AD3A
+	for <blug-outgoing@engen.priv.no>; Fri, 23 Jan 2004 14:44:31 +0100 (CET)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12179-01 for <blug-outgoing@engen.priv.no>;
+	Fri, 23 Jan 2004 14:44:30 +0100 (CET)
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id BFD7530AD51; Fri, 23 Jan 2004 14:44:30 +0100 (CET)
+Delivered-To: blug@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 0879030AD50
+	for <blug@engen.priv.no>; Fri, 23 Jan 2004 14:44:30 +0100 (CET)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11682-08 for <blug@engen.priv.no>;
+	Fri, 23 Jan 2004 14:44:29 +0100 (CET)
+Received: from rolf.uib.no (rolf.uib.no [129.177.30.19])
+	by vegard.engen.priv.no (Postfix) with ESMTP id AAEB130AD3A
+	for <blug@blug.linux.no>; Fri, 23 Jan 2004 14:44:29 +0100 (CET)
+Received: from alfred.uib.no (smtp.uib.no) [129.177.30.120] 
+	by rolf.uib.no for blug@blug.linux.no with esmtp (Exim 4.24)
+	id 1Ak1bn-0003GV-1p; Fri, 23 Jan 2004 14:44:27 +0100
+Received: from kain.mi.uib.no [129.177.61.22] 
+	by smtp.uib.no for blug@blug.linux.no with esmtp (Exim 4.12)
+	id 1Ak1bm-00044l-00; Fri, 23 Jan 2004 14:44:26 +0100
+Date: Fri, 23 Jan 2004 14:44:26 +0100 (CET)
+From: Jon Trygve Utne <jont@mi.uib.no>
+To: blug@blug.linux.no
+Subject: OPPDATERT! Last Thursday: Fri programvare ("Open Source") i Offentlig
+ sektor
+Message-ID: <Pine.LNX.4.53.0401231440290.10711@kain.mi.uib.no>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=ISO-8859-1
+Content-Transfer-Encoding: 8BIT
+X-Virus-Scanned: by amavisd-new-20030616-p5 (Debian) at engen.priv.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+X-Virus-Scanned: by amavisd-new-20030616-p5 (Debian) at engen.priv.no
+Status: RO
+Content-Length: 2218
+Lines: 67
+
+
+
+Bergen (BSD and) Linux User Group fortsetter møteserien "Last Thursday"
+
+   Torsdag 29. januar 2004, kl 19.00
+   Auditorium 1, Realfagbygget, UiB            <<----OBS! Merk stedet!
+   Allègaten 41 [1]
+
+Møtet er gratis og åpent for alle interesserte, med programmet:
+
+ ~ Paneldebatt om fri programvare i offentlig sektor
+
+   Det har vært snakket mye om bruk av fri programvare i offentlig
+   sektor. Vi inviterer til debatt på grunnlag av rapportene som nylig
+   er offentliggjort av Statskonsult og Teleplan [2]. Panelet, består av
+
+	Tor Bu, IT-direktør, Universitetet i Bergen
+	Birger Steen, Adm. Dir., Microsoft Norge
+	Ole-Bjørn Tuftedal, Teknologsjef, Bergen Kommune
+	Dag Åsheim, Seniorkonsulent og gründer av Linpro
+
+	Grethe Melby, BLUG, ordstyrer
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av møtet vil være fullført ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fagøl og annet sosialt.
+
+MERK:	Realfagbygget har et finurlig utformet
+	adgangskontrollsystem som gjør at man ikke uten
+	videre slipper inn uten kontakter på innsiden.
+	Vi vil gjøre vårt beste for å ha folk i døren for
+	å slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det første plenumsmøtet i vårsemesteret 2004. Foreløpig
+møteplan for resten av våren 2004 ser slik ut:
+
+Torsdag 26. februar 2004: Sikkerhet i trådløsnettverk, Kjell Jørgen Hole
+Installfest lørdag 13. mars
+Torsdag 25. mars 2004: Tema ikke fastsatt
+Torsdag 22. april 2004: Tema ikke fastsatt
+Torsdag 27. mai 2004: Tema ikke fastsatt
+
+Vi fortsetter altså med møter *siste torsdag i måneden*. Dersom ikke
+annet blir annonsert, vil møtene fortsatt foregå på
+Høyteknologisenteret.
+
+Se også BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Spørsmål kan rettes til avsender, mailto:Jon.Utne@mi.uib.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+
+
+[1] For kartreferanse: søk på http://www.finn.no/kart
+
+[2] Ressurser:
+
+Teleplans rapport:
+http://developer.skolelinux.no/~knuty/teleplan_03112003.pdf
+
+Statskonsult-rapporten kan bestilles fra
+http://www.statskonsult.no/publik/rapporter/2003/2003-24.htm
+
+og leses som pdf fra
+http://www.statskonsult.no/publik/rapporter/2003/2003-24.pdf
+
+
+

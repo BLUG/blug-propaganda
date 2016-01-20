@@ -1,0 +1,98 @@
+From owner-blug-outgoing@engen.priv.no  Thu Feb 19 09:15:35 2004
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id A8A2B30AE27
+	for <blug-outgoing@engen.priv.no>; Thu, 19 Feb 2004 09:15:34 +0100 (CET)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 04747-09 for <blug-outgoing@engen.priv.no>;
+	Thu, 19 Feb 2004 09:15:34 +0100 (CET)
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 5AA9930AE2D; Thu, 19 Feb 2004 09:15:34 +0100 (CET)
+Delivered-To: blug@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 846E230AE2C
+	for <blug@engen.priv.no>; Thu, 19 Feb 2004 09:15:33 +0100 (CET)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 04946-05 for <blug@engen.priv.no>;
+	Thu, 19 Feb 2004 09:15:33 +0100 (CET)
+Received: from vs.bgnett.no (unknown [194.54.96.159])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 09A1630AE27
+	for <blug@blug.linux.no>; Thu, 19 Feb 2004 09:15:33 +0100 (CET)
+Received: (from root@localhost)
+	by vs.bgnett.no (8.12.8p1/8.12.8) id i1J8FZ3V045913
+	for blug@blug.linux.no; Thu, 19 Feb 2004 09:15:36 +0100 (CET)
+	(envelope-from peter@bgnett.no)
+Received: from tosh.datadok.no.bgnett.no (peter@tosh.datadok.no [194.54.103.99])
+	by vs.bgnett.no (8.12.8p1/8.12.8av) with ESMTP id i1J8FTsM045816
+	for <blug@blug.linux.no>; Thu, 19 Feb 2004 09:15:30 +0100 (CET)
+	(envelope-from peter@bgnett.no)
+To: blug@blug.linux.no
+Subject: Last Thursday 26.02.2004: Sikkerhet i =?iso-8859-1?q?tr=E5dl=F8se?=
+  nettverk, ved Kjell =?iso-8859-1?q?J=F8rgen?= Hole
+From: peter@bgnett.no (Peter N. M. Hansteen)
+Date: 19 Feb 2004 09:13:34 +0100
+Message-ID: <877jyjebbl.fsf@tosh.datadok.no>
+User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new-20030616-p7 (Debian) at engen.priv.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+X-Virus-Scanned: by amavisd-new-20030616-p7 (Debian) at engen.priv.no
+Status: RO
+Content-Length: 1836
+Lines: 44
+
+Bergen (BSD and) Linux User Group fortsetter m=F8teserien "Last Thursday"
+
+   Torsdag 26. februar 2004, kl 19.00=20
+   Stort auditorium, H=F8yteknologisenteret,
+   Thorm=F8hlens gate 55, Bergen[1]
+
+M=F8tet er gratis og =E5pent for alle interesserte, med programmet:
+
+ ~ Sikkerhet i tr=E5dl=F8se nettverk, ved Kjell J=F8rgen Hole
+
+   Tr=E5dl=F8se nettverk sprer seg fort, men hvordan oppn=E5r vi =F8nskelig
+   grad av sikkerhet? Kjell J=F8rgen Hole (url:http://www.kjhole.com),
+   seniorforsker ved NTNU og professor II ved UiB, forklarer hva som
+   skal til.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av m=F8tet vil v=E6re fullf=F8rt ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fag=F8l og annet sosialt.
+
+MERK:	H=F8yteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gj=F8r at man ikke uten=20
+	videre slipper inn uten kontakter p=E5 innsiden.=20=20
+	Vi vil gj=F8re v=E5rt beste for =E5 ha folk i d=F8ren for=20
+	=E5 slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det f=F8rste plenumsm=F8tet i v=E5rsemesteret 2004. Forel=F8pig=20
+m=F8teplan for resten av v=E5ren 2004 ser slik ut:
+
+Installfest l=F8rdag 13. mars
+Torsdag 25. mars 2004: Linux og lydl=F8st system, ved Ketil Vestby
+Torsdag 22. april 2004: Tema ikke fastsatt
+Torsdag 27. mai 2004: Tema ikke fastsatt
+
+Vi fortsetter alts=E5 med m=F8ter *siste torsdag i m=E5neden*. Dersom ikke
+annet blir annonsert, vil m=F8tene fortsatt foreg=E5 p=E5
+h=F8yteknologisenteret.
+
+Se ogs=E5 BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Sp=F8rsm=E5l kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.finn.no/finn/map?utmx=3D-31761&utmy=3D6733037&=
+title=3DTHORM%D8HLENS+GATE+55%2C+5008+Bergen
+
+
+
