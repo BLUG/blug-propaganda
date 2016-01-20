@@ -1,0 +1,100 @@
+From owner-blug-outgoing@engen.priv.no  Mon Aug 25 14:59:30 2003
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+Delivered-To: blug-outgoing@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 56B6230A7E7
+	for <blug-outgoing@engen.priv.no>; Mon, 25 Aug 2003 14:59:30 +0200 (CEST)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+ by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 03583-02 for <blug-outgoing@engen.priv.no>;
+ Mon, 25 Aug 2003 14:59:30 +0200 (CEST)
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 17E7330AD3D; Mon, 25 Aug 2003 14:59:30 +0200 (CEST)
+Delivered-To: blug@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 517C830AD3C
+	for <blug@engen.priv.no>; Mon, 25 Aug 2003 14:59:29 +0200 (CEST)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+ by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+ id 01195-09 for <blug@engen.priv.no>; Mon, 25 Aug 2003 14:59:29 +0200 (CEST)
+Received: from vs.bgnett.no (post.bgnett.no [194.54.106.74])
+	by vegard.engen.priv.no (Postfix) with ESMTP id C6C5930A7E7
+	for <blug@blug.linux.no>; Mon, 25 Aug 2003 14:59:28 +0200 (CEST)
+Received: (from root@localhost)
+	by vs.bgnett.no (8.12.8p1/8.12.8) id h7PDGAE4049281
+	for blug@blug.linux.no; Mon, 25 Aug 2003 15:16:10 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+Received: from tosh.datadok.no.bgnett.no (peter@tosh.dataped.no [194.54.103.99])
+	by vs.bgnett.no (8.12.8p1/8.12.8av) with ESMTP id h7PDG7HO049253
+	for <blug@blug.linux.no>; Mon, 25 Aug 2003 15:16:08 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+To: blug@blug.linux.no
+Subject: Last =?iso-8859-1?q?Thursday-m=F8tet?= i BLUG 28. august 2003 +
+  =?iso-8859-1?q?h=F8stprogram?=
+From: peter@bgnett.no (Peter N. M. Hansteen)
+Date: 25 Aug 2003 15:00:21 +0200
+Message-ID: <87fzjpdh96.fsf@tosh.datadok.no>
+User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by AMaViS perl-11
+X-Virus-Scanned: by amavisd-new-20030616-p3 (Debian) at engen.priv.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+X-Virus-Scanned: by amavisd-new-20030616-p3 (Debian) at engen.priv.no
+Status: RO
+Content-Length: 1882
+Lines: 47
+
+Bergen (BSD and) Linux User Group fortsetter m=F8teserien "Last Thursday"
+
+   Torsdag 28. august 2003, kl 19.00=20
+   Stort auditorium, H=F8yteknologisenteret,
+   Thorm=F8hlens gate 55, Bergen
+
+M=F8tet er gratis og =E5pent for alle interesserte, med programmet:
+
+ ~ Fri programvare som forskningskatalysator i utviklingsland,=20
+   ved Rune Nilsen
+
+   Rune Nilsen, prorektor ved Universitetet i Bergen, har i mange =E5r
+   arbeidet innen medisinsk forskning, og har ofte samarbeidet med
+   forskere i utviklingsland. Foredraget handler om erfaringer med
+   prosjekter der fri programvare er avgj=F8rende for at forskning kan
+   gjennomf=F8res og resultater kan tilbys offentligheten.
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av m=F8tet vil v=E6re fullf=F8rt ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+for fag=F8l og annet sosialt.
+
+MERK:	H=F8yteknologisenteret har et finurlig utformet
+	adgangskontrollsystem som gj=F8r at man ikke uten=20
+	videre slipper inn uten kontakter p=E5 innsiden.=20=20
+	Vi vil gj=F8re v=E5rt beste for =E5 ha folk i d=F8ren for=20
+	=E5 slippe inn fra ca 18.45 til vel 19.00.
+
+Dette er det f=F8rste plenumsm=F8tet i h=F8stsemesteret 2003. Forel=F8pig=20
+m=F8teplan for resten av v=E5rsemesteret ser slik ut:
+
+Installfest er tentativt planlagt til midt i september
+
+Torsdag 25. september: David Karlsen om clustring=20
+
+Torsdag 30. oktober: Kjetil S=F8rtun om JBoss
+
+Torsdag 27. november: Vegard Engen om utskriftssystemet CUPS=20
+
+Vi fortsetter alts=E5 med m=F8ter *siste torsdag i m=E5neden*. Dersom ikke
+annet blir annonsert, vil m=F8tene fortsatt foreg=E5 p=E5
+h=F8yteknologisenteret.
+
+Se ogs=E5 BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Sp=F8rsm=E5l kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+
+
