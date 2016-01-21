@@ -1,0 +1,112 @@
+From owner-blug-outgoing@engen.priv.no  Mon Aug 16 21:59:52 2004
+Return-Path: <owner-blug-outgoing@engen.priv.no>
+X-Original-To: blug-outgoing@engen.priv.no
+Delivered-To: blug-outgoing@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 97F6830AD3E
+	for <blug-outgoing@engen.priv.no>; Mon, 16 Aug 2004 21:59:51 +0200 (CEST)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28634-10 for <blug-outgoing@engen.priv.no>;
+	Mon, 16 Aug 2004 21:59:51 +0200 (CEST)
+Received: by vegard.engen.priv.no (Postfix, from userid 30)
+	id 2289830AED7; Mon, 16 Aug 2004 21:59:51 +0200 (CEST)
+X-Original-To: blug@engen.priv.no
+Delivered-To: blug@engen.priv.no
+Received: from localhost (localhost [127.0.0.1])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 6234230AED1
+	for <blug@engen.priv.no>; Mon, 16 Aug 2004 21:59:50 +0200 (CEST)
+Received: from vegard.engen.priv.no ([127.0.0.1])
+	by localhost (vegard [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28627-10 for <blug@engen.priv.no>;
+	Mon, 16 Aug 2004 21:59:50 +0200 (CEST)
+Received: from vs3.bgnett.no (vs3.bgnett.no [194.54.96.185])
+	by vegard.engen.priv.no (Postfix) with ESMTP id 2B1B230AD3E
+	for <blug@blug.linux.no>; Mon, 16 Aug 2004 21:59:49 +0200 (CEST)
+Received: from tosh.datadok.no.bgnett.no ([194.54.107.19])
+	by vs3.bgnett.no (8.12.9p2/8.12.9) with ESMTP id i7GJxhQ2096445
+	for <blug@blug.linux.no>; Mon, 16 Aug 2004 21:59:44 +0200 (CEST)
+	(envelope-from peter@bgnett.no)
+To: blug@blug.linux.no
+From: peter@bgnett.no (Peter N. M. Hansteen)
+Date: 16 Aug 2004 21:59:37 +0200
+Message-ID: <874qn2g8gm.fsf@tosh.datadok.no>
+User-Agent: Gnus/5.09 (Gnus v5.9.0) Emacs/21.3
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-bgnett.no-virusscanner: Found to be clean
+X-Envelope-To: blug@blug.linux.no
+Subject: BLUG Torsdag 26. august 2004: Linux i et Windows-dominert nettverk
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at engen.priv.no
+Sender: owner-blug@blug.linux.no
+Precedence: bulk
+Reply-To: blug@blug.linux.no
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at engen.priv.no
+Status: RO
+Content-Length: 2547
+Lines: 58
+
+Bergen (BSD and) Linux User Group fortsetter m=F8teserien "Last Thursday"
+
+   Torsdag 26. august 2004, kl 19.00
+   Auditorium PI, Autog=E5rden (Matematisk Institutt),=20
+   Johannes Bruns gate 12, Bergen[1]
+   *** NB Merk nytt m=F8tested! ***
+
+M=F8tet er gratis og =E5pent for alle interesserte, med programmet:
+
+ ~ Linux i et Windows-dominert nettverk -=20
+   ved Bj=F8rn Tore Sund, Overingeni=F8r IT ved UiB
+
+   I den store stygge virkeligheten administreres datamaskiner med
+   Active Directory og hjemmekatalogen din heter H: - Bj=F8rn Tore Sund
+   har sammen med andre UiB-ingeni=F8rer arbeidet med =E5 f=E5
+   linux-klienter til =E5 fungere i denne verden og presenterer noen
+   l=F8sninger som virker. For enkeltmaskinen, og i stor skala hvis man
+   f=E5r lov =E5 sette opp fildeling via Samba p=E5 en
+   linux-maskin. N=F8kkelord er Microsoft Services for Unix, Samba 3.0,
+   Winbind, Active Directory, LDAP og standarder som nesten f=F8lges...
+
+Vi legger som tidligere opp til at den formelle, disiplinerte faglige
+delen av m=F8tet vil v=E6re fullf=F8rt ca kl 21.00, med overgang til mer
+uformelle aktiviteter og langsom forflytting til egnet serveringssted
+(Dubliner[2]) for fag=F8l og annet sosialt.
+
+    MERK:  Inngangsd=F8ren til Autog=E5rden er l=E5st n=E5r m=F8tet starter=
+.  Vi=20
+    vil holde et =F8ye med d=F8ren fram til 19:00, men kan ikke love at du=
+=20
+    oppn=E5r kontakt og slipper inn hvis du kommer senere enn det.
+
+
+M=F8teplanen for resten av h=F8sten 2004 (kan endres p=E5 kort varsel) ser
+slik ut:
+
+Torsdag 30. september 2004: Johan Riise om lisenser og patentsp=F8kelset
+Torsdag 28. oktober 2004: Tema ikke fastsatt
+en l=F8rdag i november 2004: Installfest
+Torsdag 25. november 2004: Brannmurer p=E5 OpenBSD og Linux
+
+Vi fortsetter alts=E5 med m=F8ter *siste torsdag i m=E5neden*. Dersom ikke
+annet blir annonsert, vil m=F8tene fortsatt foreg=E5 i Auditorium PI.
+
+Se ogs=E5 BLUGs hjemmeside, url:http://www.blug.linux.no.
+
+Sp=F8rsm=E5l kan rettes til avsender, mailto:peter@bgnett.no eller til
+blug-listen mailto:blug@blug.linux.no.
+
+[1] kartreferanse http://www.blug.linux.no/redirect/audpi=20
+    Parkering: Plassen foran fysikkbygget (All=E9gaten 55) kan brukes=20
+    p=E5 kveldstid.
+
+[2] kartreferanse http://www.blug.linux.no/redirect/dubliner der vi
+    okkuperer bakrommet.
+
+--=20
+Peter N. M. Hansteen, member of the first RFC 1149 implementation team
+http://www.blug.linux.no/rfc1149/ http://www.datadok.no/ http://www.nuug.no/
+"First, we kill all the spammers" The Usenet Bard, "Twice-forwarded tales"
+
+
+
