@@ -1,0 +1,174 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<< /F1 2 0 R /F2 3 0 R >>
+endobj
+2 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+3 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font >>
+endobj
+4 0 obj
+<< /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources << /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] >> /Rotate 0 /Trans <<  >> 
+  /Type /Page >>
+endobj
+5 0 obj
+<< /Outlines 7 0 R /PageLabels 14 0 R /PageMode /UseNone /Pages 12 0 R /Type /Catalog >>
+endobj
+6 0 obj
+<< /Author () /CreationDate (D:20160523101204-01'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20160523101204-01'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (BLUG HOWTO) /Trapped /False >>
+endobj
+7 0 obj
+<< /Count 4 /First 8 0 R /Last 11 0 R /Type /Outlines >>
+endobj
+8 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 665.0236 0 ] /Next 9 0 R /Parent 7 0 R /Title (Tidligere l\370sninger) >>
+endobj
+9 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 560.0236 0 ] /Next 10 0 R /Parent 7 0 R /Prev 8 0 R /Title (Dagens l\370sning) >>
+endobj
+10 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 485.0236 0 ] /Next 11 0 R /Parent 7 0 R /Prev 9 0 R /Title (\330nskeliste) >>
+endobj
+11 0 obj
+<< /Dest [ 4 0 R /XYZ 62.69291 428.0236 0 ] /Parent 7 0 R /Prev 10 0 R /Title (OBS Konfigurasjon) >>
+endobj
+12 0 obj
+<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
+endobj
+13 0 obj
+<< /Length 2670 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 165.5049 0 Td (BLUG HOWTO) Tj T* -165.5049 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 189.9374 0 Td (Videoopptak) Tj T* -189.9374 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .801567 Tw 12 TL /F1 10 Tf 0 0 0 rg (Vi har siden 2009 tatt opp de fleste foredragene som er holdt for BLUG. Med en del forskjellig utstyr. Vi) Tj T* 0 Tw (har ogs\345 eksperimentert en god del med forskjellige l\370sninger for live-streaming.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tidligere l\370sninger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 602.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.41683 Tw (Vi har bl.a. brukt et Contour roam 2 actionkamera til opptak. Det gir bra bilde, ogs\345 n\345r det er relativt) Tj T* 0 Tw .139987 Tw (m\370rkt i rommet, men det har ingen mulighet for live-streaming. Det har en vidvinkel linse, slik at en slipper) Tj T* 0 Tw (\345 flytte kameraet om foredragsholderen beveger seg mye rundt.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 572.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .883735 Tw (Vi har ogs\345 pr\370vd \345 str\370mme direkte fra et Samsung Galaxy kamera via google hangouts. Det fungerte) Tj T* 0 Tw (t\345lelig bra, men hangouts som platform ga oss lite kontroll p\345 resultatet.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Dagens l\370sning) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .242339 Tw (I dag bruker vi et Panasonic ### videokamera, en Magewell USB Capture HDMI enhet, og en laptop med) Tj T* 0 Tw 3.005433 Tw (OBS \(Open Broadcasting Software\). Opptak fra foredragsholders maskin gj\370res med FFMPEG, og) Tj T* 0 Tw (str\370mmes til OBS-laptopen via UDP.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (\330nskeliste) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+Q
+q
+1 0 0 1 62.69291 452.0236 cm
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Sender/mottager for tr\345dl\370s mikrofon) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 440.0236 cm
+Q
+q
+1 0 0 1 62.69291 407.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (OBS Konfigurasjon) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+14 0 obj
+<< /Nums [ 0 15 0 R ] >>
+endobj
+15 0 obj
+<< /S /D /St 1 >>
+endobj
+xref
+0 16
+0000000000 65535 f
+0000000075 00000 n
+0000000119 00000 n
+0000000229 00000 n
+0000000344 00000 n
+0000000553 00000 n
+0000000660 00000 n
+0000000931 00000 n
+0000001006 00000 n
+0000001129 00000 n
+0000001260 00000 n
+0000001388 00000 n
+0000001508 00000 n
+0000001571 00000 n
+0000004298 00000 n
+0000004342 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com)
+ [(\006\330\322q>\011\266\215\225-\226\262\215\313\362\212) (\006\330\322q>\011\266\215\225-\226\262\215\313\362\212)]
+ /Info 6 0 R /Root 5 0 R /Size 16 >>
+startxref
+4379
+%%EOF
